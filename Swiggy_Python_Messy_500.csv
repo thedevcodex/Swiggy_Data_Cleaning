@@ -1,0 +1,513 @@
+OrderID,OrderDate,CustomerID,CustomerName,Gender,Age,City,Area,RestaurantID,RestaurantName,Cuisine,RestaurantRating,ItemName,CategoryName,Quantity,UnitPrice,TotalAmount,OrderStatus,PaymentMode,PaymentStatus,PartnerName,VehicleType,DistanceKM,DeliveryTimeMin,FoodRating,DeliveryRating
+ORD10397,30-Jan-24,CUST2295,Suresh Nair,M,31, Mumbai ,Dadar,R009,The Bakers Oven,Bakery,4,Cupcake,Desserts,3,80,240,Cancelled,Wallet,Failed,Aarav Reddy,E-Bike,,32,,
+ORD10446,29-Dec-24,CUST2330,Priya Joshi,MALE,36,Bangalore,Jayanagar,R003,Dragon Wok,Chinese,4,Veg Noodles,Noodles,3,160,480,Delivered,DebitCard,Paid,Pooja Gupta,E-Bike,1.2,17,5,3
+ORD10061,08/27/2024,CUST2016,Kiran Das,,60,kolkata,Park Street,R007,Sushi Yama,Japanese,4.2,Chicken Ramen,Main Course,3,280,840,Returned,WALLET,Refunded,Manoj Nair,Bicycle,13.4,77,,
+ORD10116,30-06-2024 18:16,CUST2086,Karthik Bose,male,29,pune,Hinjewadi,R015,Chaat Corner,Street Food,4,Pani Puri,Street Food,1,Rs.60.0,Rs.60.0,DELIVERED,wallet,Paid,Ravi Rao,Scooter,7.3,45,4,5
+ORD10424,18-01-2024 12:18,CUST2224,Sunita Patel,m,32,Hyderabad,,R015,Chaat Corner,Street Food,4,Bhel Puri,Street Food,3,70,210,cancelled,Credit Card,Failed,Reyansh Sharma,E-Bike,5,23,,
+ORD10147,13-07-2024 08:40,CUST2107,Amit Chatterjee,,24,Bangalore,Koramangala, R005 ,Burger Point,Fast Food,3.9,Cheese Burger,Burger,5,Rs.130.0,650,Returned,WALLET,Refunded,Kiran Desai,Scooter,6.4,43,,
+ORD10411,17-06-2024 23:58,CUST2306,Sai Mukherjee,M,30,Mumbai,Bandra, R001 ,Biryani Blues,Biryani,4.3,Mutton Biryani,Main Course,5,280,1400,DELIVERED,WALLET,Paid,Aarohi Patel,Bike,14.4,65,3,5
+ORD10330,06-07-2024 08:03,CUST2241,NA,f,54,Hyderabad,Secunderabad,R002,Pizza Palace,Italian,4.1,Pepperoni Pizza,Pizza,1,Rs.320.0,320,delivered,wallet,Paid,Pooja Gupta,E-Bike,6.5,39,5,4
+ORD10286,08/30/2024,CUST2169,Aadhya Gupta,m,57,pune,Kothrud,R001,Biryani Blues,Biryani,4.3,Chicken Biryani,Main Course,2,220,₹440.0,DELIVERED,CREDIT CARD,Paid,Anika Kapoor,Bicycle,2.2,23,5,5
+ORD10200,03-04-2024 23:01,CUST2052,Krishna Chatterjee,Female,40, Kolkata ,Salt Lake,R004,Punjabi Tadka,North Indian,4.4,Butter Chicken,Main Course,4,260,1040,Delivered,debit card,Paid,Sai Iyer,Scooter,12.5,67,3,3
+ORD10340,19-12-2024 11:02,CUST2249,Kiran Sharma,Female,36,,Saket,R003,Dragon Wok,Chinese,4,Spring Rolls,Starters,1,140,140,DELIVERED,Debit Card,Paid,Suresh Kumar,Scooter,4.7,31,5,4
+ORD10140,16-06-2024 09:01,CUST2092,Vikram Malhotra,f,45, Chennai ,Anna Nagar,R012,Noodle Story,Chinese,3.7,Chicken Manchurian,Main Course,3,210,630,DELIVERED,upi,Paid,Nikhil Malhotra,Scooter,7.1,,3,4
+ORD10395,02-02-2024 23:42,CUST2293,Priya Menon,M,55,Bangalore,Electronic City,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,1,Rs.70.0,70,delivered,Debit Card,Paid,Lakshmi Verma,Scooter,1.6,13,4,5
+ORD10324,28-12-2024 02:00,CUST2237,Aadhya Das,M,,PUNE,Kharadi,R005,Burger Point,Fast Food,3.9,French Fries,Sides,2,90,180,Delivered,Wallet,Paid,Ishaan Joshi,Bike,7.3,46,3,4
+ORD10175,17-08-2024 20:52,CUST2012,Aditya Sharma,Female,39,KOLKATA,Park Street,R015,Chaat Corner,Street Food,4,Vada Pav,Street Food,4,Rs.50.0,200,Returned,debit card,Refunded,Vivaan Singh,Bike,8,47,,
+ORD10268,24-03-2024,CUST2108,Rahul Iyer,F,37,Bengaluru,HSR Layout,R003,Dragon Wok,Chinese,4,Spring Rolls,Starters,5,140,700,DELIVERED,Debit Card,Paid,Pooja Gupta,Scooter,8.8,49,4,3
+ORD10238,19-08-2024 17:13,CUST2178,Deepak Rao,male,52,Hyderabad,Madhapur,R012,Noodle Story,chinese,3.7,Chicken Manchurian,Main Course,5,210,1050,DELIVERED,CREDIT CARD,Paid,Aarav Reddy,Bike,8.7,46,3,5
+ORD10136,29-11-2024,CUST2099,Aditya Iyer,Male,43,Delhi,Connaught Place,R009,The Bakers Oven,Bakery,4,Croissant,Bakery,1,90,90,returned,UPI,Refunded,Vivaan Singh,E-Bike,12.8,69,,
+ORD10130,19-04-2024 22:18,CUST2094,Deepak Gupta,Male,39,NA,Andheri,R004,Punjabi Tadka,North Indian,4.4,Butter Chicken,Main Course,1,260,260,RETURNED,CASH ON DELIVERY,Refunded,Suresh Kumar,Bicycle,,33,,
+ORD10384,16-02-2024 04:26,CUST2041,Aditya Das,MALE,21,Mumbai,Dadar,R012,Noodle Story,Chinese,3.7,Veg Noodles,Noodles,1,160,Rs.160.0,Delivered,cash on delivery,Paid,Krishna Chatterjee,Bicycle,2.3,21,3,5
+ORD10054,28-Aug-24,CUST2041,Aditya Das,,21,Mumbai,Powai,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,2,70,140,cancelled,WALLET,Failed,Manoj Nair,Bicycle,3.2,25,,
+ORD10229,10-06-2024 18:40,CUST2171,SAANVI MALHOTRA,F,0,Mumbai,Dadar,R002,Pizza Palace,Itallian,4.1,Pasta Alfredo,Pasta,5,240,1200,CANCELLED,wallet,Failed,Reyansh Sharma,Scooter,10.6,46,,
+ORD10312,04-Dec-24,CUST2116,Vikram Bose,FEMALE,38,Chennai,Velachery,R002,Pizza Palace,Italian,4.1,Pasta Alfredo,Pasta,4,240,Rs.960.0,Returned,wallet,Refunded,Aditya Menon,E-Bike,1.4,13,,
+ORD10485,12-04-2024,CUST2359,Lakshmi Sharma,f,28,Mumbai,Dadar,R007,Sushi Yama,Japanese,4.2,California Roll,Sushi,1,320,320,Cancelled,Wallet,Failed,Anika Kapoor,Bike,6.3,40,,
+ORD10430,04-10-2024 09:40,CUST2321,Vihaan Das,F,18,Bangalore,Electronic City,R014,Healthy Bites,Salads,4.2,Quinoa Salad,Salads,4,210,840,Delivered,cash on delivery,Paid,Krishna Chatterjee,E-Bike,6.5,41,5,4
+ORD10464,11/15/2024,CUST2246,Sai Reddy,Male,59,Kolkata,Ballygunge,R013,Sweet Tooth,Desserts,4.6,Gulab Jamun,Desserts,5,90,450,Returned,Debit Card,Refunded,Reyansh Sharma,Bike,7.5,53,,
+ORD10058,08-11-2024 07:59,CUST2027,Priya Mukherjee,f,27,DELHI,Dwarka,R004,Punjabi Tadka,North Indian,4.4,Butter Chicken,Main Course,5,260,1300,Delivered,Wallet,Paid,Myra Pillai,Scooter,13.8,89,4,4
+ORD10445,11/27/2024,CUST2329,Rohan Kapoor,m,26,Delhi,Connaught Place,R003,Dragon Wok,Chinese,4,Spring Rolls,Starters,5,140,Rs.700.0,DELIVERED,UPI,Paid,Kiran Desai,E-Bike,1.3,15,3,5
+ORD10201,24-03-2024,CUST2149,Diya Bose,female,55,Chennai,Velachery,R006,South Spice,South Indian,4.5,Masala Dosa,Breakfast,3,Rs.90.0,270,RETURNED,UPI,Refunded,Nikhil Malhotra,E-Bike,1.5,20,,
+ORD10271,0000-00-00,CUST2200,Sai Rao,MALE,39,Hyderabad,Banjara Hills,R006,South Spice,South Indian,4.5,Uttapam,Breakfast,3,100,300,Returned,Debit Card,Refunded,Sai Iyer,E-Bike,11.9,76,,
+ORD10345,20-Aug-24,CUST2106,Manoj Pillai,f,,Chennai,T Nagar,R009,The Bakers Oven,Bakery,4,Chocolate Cake,Desserts,4,350,Rs.1400.0,Delivered,CREDIT CARD,Paid,Sai Iyer,Bicycle,1.3,11,5,4
+ORD10280,16-10-2024 05:20,CUST2208,Sanjay Singh,F,20,Hyderabad,Kukatpally,R012,  Noodle Story  ,Chinese,3.7,Veg Noodles,Noodles,5,160,800,returned,Credit Card,Refunded,Aditya Menon,Scooter,14.1,66,,
+ORD10256,21-08-2024 02:41,CUST2189,Reyansh Gupta,M,50,Delhi,Rohini,R013,Sweet Tooth,Desserts,,Brownie,Desserts,5,130,650,Returned,UPI,Refunded,,Bike,12.2,72,,
+ORD10451,08/26/2024,CUST2334,Sneha Patel,F,23,Bangalore,Koramangala,R009,The Bakers Oven,Bakery,4,Chocolate Cake,Desserts,3,350,,Cancelled,credit card,Failed,Vivaan Singh,Bicycle,5.2,29,,
+ORD10377,02-10-2024 19:58,CUST2278,Manoj Desai,M,23,Hyderabad,Madhapur,R005,Burger Point,Fast Food,3.9,French Fries,Sides,5,90,450,Delivered,UPI,Paid,Vivaan Singh,Bike,6.6,44,5,5
+ORD10355,08-02-2024 19:46,CUST2260,Rahul Gupta,m,20,Chennai,Anna Nagar,R006,South Spice,South Indian,4.5,Masala Dosa,Breakfast,1,90,90,Delivered,Credit Card,Paid,Myra Pillai,Scooter,8.7,52,3,4
+ORD10320,07-09-2024 17:54,CUST2234,Meera Kapoor,FEMALE,53,MUMBAI,Andheri,R002,Pizza Palace,Italian,4.1,Pasta Alfredo,Pasta,3,240,720,Delivered,Cash on Delivery,Paid,Myra Pillai,Bicycle,5.5,34,5,3
+ORD10248,0000-00-00,CUST2093,Aarohi Gupta,MALE,22,Bangalore,Jayanagar,R012,  Noodle Story  ,Chinese,3.7,Veg Noodles,Noodles,2,160,Rs.320.0,Delivered,Debit Card,Paid,Anika Kapoor,E-Bike,7.6,47,5,3
+ORD10408,21-06-2024 04:50,CUST2303,Reyansh Rao,FEMALE,34,CHENNAI,T Nagar,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,5,70,522.38,Returned,Wallet,Refunded,Kiran Desai,Bike,11.6,62,,
+ORD10370,21-Jun-24,CUST2272,Deepak Menon,m,44,DELHI,Saket,R005,Burger Point,Fast Food,3.9,Cheese Burger,Burger,1,₹130.0,130,delivered,CREDIT CARD,Paid,Lakshmi Verma,Scooter,10.1,61,0,5
+ORD10343,14-04-2024,CUST2252,Deepak Patel,f,27,Chennai,Adyar,R001,Biryani Blues,Biryani,4.3,Mutton Biryani,Main Course,4,280,Rs.1120.0,DELIVERED,Debit Card,Paid,Kavya Mukherjee,Scooter,14.4,77,4,4
+ORD10040,09-07-2024 23:24,CUST2032,Nikhil Bose,MALE,24, Kolkata ,Salt Lake,R010,Kebab Junction,Mughlai,4.3,Seekh Kebab,Starters,4,220,880,Delivered,CASH ON DELIVERY,Paid,Myra Pillai,Bike,4.4,29,3,5
+ORD10470,26-03-2024 05:00,CUST2347,Arjun Das,male,30,Pune,Baner,R012,Noodle Story,Chinese,3.7,Spring Rolls,Starters,4,140,560,Delivered,Debit Card,Paid,Suresh Kumar,Scooter,6.7,35,3,5
+ORD10154,17-07-2024 09:03,CUST2112,Sanjay Bose,FEMALE,28,BANGALORE,Jayanagar,R001,Biryani Blues,Biryani,4.3,Chicken Biryani,Main Course,3,₹220.0,660,Delivered,Debit Card,Paid,Vikram Das,Scooter,3.2,26,5,
+ORD10293,17-Oct-24,CUST2165,Ramesh Malhotra,F,31,PUNE,Hinjewadi,R001,Biryani Blues,Biryani,4.3,Veg Biryani,Main Course,5,180,900,Delivered,UPI,Paid,Ravi Rao,Scooter,13.3,72,,4
+ORD10471,05/18/2024,CUST2348,Myra Mukherjee,m,57,hyderabad,Madhapur,R008,Taco Fiesta,Mexican,3.8,Burrito Bowl,Main Course,3,240,720,Returned,Cash on Delivery,Refunded,,Bicycle,12.5,49,,
+ORD10366,13-02-2024 02:16,CUST2268,Lakshmi Verma,F,150,Delhi,Rohini,R012,Noodle Story,Chinese,3.7,Spring Rolls,Starters,5,₹140.0,700,Delivered,CREDIT CARD,Paid,Suresh Kumar,Scooter,11.2,54,4,3
+ORD10221,03-11-2024 11:57,CUST2164,Aarohi Iyer,null,47,delhi,Karol Bagh,R008,Taco Fiesta,Mexican,3.8,Chicken Tacos,Main Course,4,210,,DELIVERED,debit card,Paid,Anika Kapoor,Bike,2.3,20,6,3
+ORD10500,27-12-2024 21:07,CUST2370,Diya Mukherjee,f,58,bangalore,Koramangala,R014,Healthy Bites,Salads,4.2,Fruit Bowl,Salads,1,120,120,Cancelled,UPI,Refunded,Ishaan Joshi,Bicycle,2.1,23,,
+ORD10233,09-06-2024,CUST2055,Suresh Chatterjee,MALE,29,Hyderabad,Banjara Hills,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,3,₹70.0,210,CANCELLED,Wallet,Failed,Vikram Das,Bike,2.4,17,,
+ORD10088,25-01-2024 09:24,CUST2066,Vivaan Patel,MALE,31,KOLKATA,Park Street,R009,The Bakers Oven,Bakery,4,Cupcake,Desserts,5,80,400,Delivered,Cash on Delivery,Paid,,Bicycle,5.1,27,5,5
+ORD10071,01-05-2024 00:40,CUST2010,Anika Gupta,female,60,Pune,Kharadi,R011,Curry House,North Indian,4.1,Paneer Tikka,Starters,1,220,220,Cancelled,UPI,Refunded,Meera Bose,Bicycle,6.1,,,
+ORD10492,05-10-2024 05:25,CUST2363,Kavya Reddy,male,46,mumbai,Bandra,R004,Punjabi Tadka,North Indian,4.4,Dal Makhani,Main Course,-1,180,180,Returned,WALLET,Refunded,Kiran Desai,Bike,12.7,76,,
+ORD10180,18-04-2024 16:26,CUST2132,,F,39,Bangalore,Koramangala,R008,Taco Fiesta,Mexican,3.8,Chicken Tacos,Main Course,2,₹210.0,420,Delivered,cash on delivery,Paid,Anika Kapoor,Bike,6.2,35,,
+ORD10166,30-11-2024 07:22,CUST2115,Aarohi Reddy,Male,38,,Park Street,R008,Taco Fiesta,Mexican,3.8,Nachos,Starters,1,180,180,CANCELLED,Cash on Delivery,Refunded,Meera Bose,Bike,14.8,85,,
+ORD10212,18-08-2024,CUST2034,Riya Verma,F,32,MUMBAI,Bandra,R012,Noodle Story,Chinese,3.7,Veg Noodles,Noodles,5,160,800,Delivered,Credit Card,Paid,Aarav Reddy,Bike,6.1,41,5,3
+ORD10215,24-04-2024,CUST2159,Deepak Das,m,33,Bangalore,Koramangala,R011,Curry House,North Indian,4.1,Butter Chicken,Main Course,1,260,260,Delivered,Cash on Delivery,Paid,Vivaan Singh,Bike,11.1,48,4,5
+ORD10156,21-Mar-24,CUST2113,,FEMALE,23,delhi,Saket,R013,Sweet Tooth,Desserts,4.6,Gulab Jamun,Desserts,2,90,180,Returned,Wallet,Refunded,Suresh Kumar,E-Bike,3.2,19,,
+ORD10427,25-09-2024 05:26,CUST2318,Pooja Malhotra,m,19,BANGALORE,HSR Layout,R002,Pizza Palace,Italian,4.1,Margherita Pizza,Pizza,2,250,Rs.500.0,Returned,CashonDelivery,Refunded,Aditya Menon,E-Bike,5.1,37,,
+ORD10017,05-02-2024 20:17,CUST2011,Reyansh Reddy,female,5,Bangalore,Koramangala,R012,Noodle Story,Chinese,3.7,Spring Rolls,Starters,2,140,280,delivered,Debit Card,Paid,Ravi Rao,Bicycle,10.6,65,4,3
+ORD10118,08-05-2024 00:19,CUST2087,POOJA KAPOOR,female,38,BANGALORE,HSR Layout,R011,Curry House,North Indian,,Butter Chicken,Main Course,2,₹260.0,₹520.0,Cancelled,cash on delivery,Failed,Reyansh Sharma,Bike,4.5,30,,
+ORD10461,09-09-2024 10:43,CUST2340,,M,54,Kolkata,Park Street,R015,Chaat Corner,Street Food,4,Vada Pav,Street Food,-3,Rs.50.0,150,Cancelled,UPI,Failed,Vikram Das,E-Bike,0.8,15,,
+ORD10348,15-09-2024 02:34,CUST2255,Gita Chatterjee,m,31,Chennai,T Nagar,R015,  Chaat Corner  ,Street Food,4,Bhel Puri,Street Food,3,70,210,Delivered,UPI,Paid,Vivaan Singh,Scooter,11.8,51,3,3
+ORD10089,22-07-2024 07:13,CUST2064,Riya Pillai,female,50,Chennai,OMR,R009,The Bakers Oven,Bakery,4,Chocolate Cake,Desserts,5,350,1750,delivered,Credit Card,Paid,Pooja Gupta,E-Bike,0.8,14,4,3
+ORD10326,16-05-2024 01:12,CUST2071,Lakshmi Pillai,f,53,Bangalore,Jayanagar,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,1,70,70,delivered,CREDIT CARD,Paid,Sai Iyer,Bike,1,14,4,5
+ORD10231,20-01-2024,CUST2173,Sneha Verma,M,45,MUMBAI,Malad,R005,Burger Point,Fast Food,3.9,Cheese Burger,Burger,2,130,260,DELIVERED,Debit Card,Paid,Ravi Rao,E-Bike,,48,4,5
+ORD10436,17-Feb-24,CUST2323,Sunita Verma,M,50,BANGALORE,Indiranagar,R011,Curry House,North Indian,4.1,Butter Chicken,Main Course,2,260,864.31,DELIVERED,Credit Card,Paid,Kiran Desai,E-Bike,11.2,52,4,4
+ORD10388,03/28/2024,CUST2286,N/A,FEMALE,25, Chennai ,Anna Nagar,R008,Taco Fiesta,Mexican,3.8,Nachos,Starters,3,180,Rs.540.0,Delivered,UPI,Paid,Ravi Rao,E-Bike,2.4,20,4,5
+ORD10420,11-10-2024 02:29,CUST2313,Karthik Menon,MALE,55,Bangalore,Whitefield,R003,Dragon Wok,Chinese,4,Veg Noodles,Noodles,1,160,Rs.160.0,Delivered,Cash on Delivery,Paid,Sai Iyer,Bike,5.5,30,5,
+ORD10244,21-10-2024 01:40,CUST2181,Karthik Singh,F,55,pune,Hinjewadi,R003,Dragon Wok,Chinese,4,Chicken Manchurian,Main Course,5,210,1050,Delivered,UPI,Paid,Aarav Reddy,Bike,10.2,66,5,4
+ORD10197,02-06-2024 17:03,CUST2146,Gita Menon,NA,44,MUMBAI,Dadar,R011,Curry House,North Indian,4.1,Paneer Tikka,Starters,5,220,1100,delivered,Cash on Delivery,Paid,Myra Pillai,Scooter,-3.5,42,5,3
+ORD10171,02-Jul-24,CUST2126,Anil Rao,Female,41,Hyderabad,Banjara Hills,R013,Sweet Tooth,Desserts,4.6,Gulab Jamun,Desserts,5,90,626.11,Returned,UPI,Refunded,Meera Bose,Bike,1.4,14,,
+ORD10005,18-Oct-24, CUST2003 ,Rahul Verma,MALE,32,Kolkata,Ballygunge,R010,Kebab Junction,Mughlai,4.3,Chicken Kebab,Starters,4,240,960,Delivered,Wallet,Paid,Meera Bose,Scooter,14.6,81,3,5
+ORD10416,22-Oct-24,CUST2310,Rahul Kapoor,Male,45,Hyderabad,Banjara Hills,R002,Pizza Palace,Italian,,Pepperoni Pizza,Pizza,1,320,320,Cancelled,Cash on Delivery,Failed,Aarav Reddy,E-Bike,4.8,36,,
+ORD10478,01-10-2024,CUST2353,Sanjay Kapoor,F,40,hyderabad,Secunderabad,R001,Biryani Blues,Biryani,4.3,Mutton Biryani,Main Course,5,280,1400,Delivered,debit card,Paid,Kiran Desai,E-Bike,6.9,39,4,5
+ORD10138,25-10-2024 15:39,CUST2031,Manoj Kapoor,,56,Mumbai,Malad,R014,Healthy Bites,Salads,4.2,Fruit Bowl,Salads,5,Rs.120.0,600,Delivered,CASH ON DELIVERY,Paid,Vivaan Singh,Scooter,1.6,20,4,5
+ORD10027,22-11-2024 04:05,CUST2020,Vikram Reddy,Male,47,Pune,Kharadi,R009,The Bakers Oven,Bakery,4,Cupcake,Desserts,0,80,240,DELIVERED,Wallet,Paid,Vikram Das,E-Bike,13.5,77,4,
+ORD10084,09-08-2024,CUST2063,Priya Singh,female,46,Chennai,Velachery,R013,Sweet Tooth,Desserts,4.6,Brownie,Desserts,4,130,Rs.520.0,Cancelled,WALLET,Refunded,Pooja Gupta,E-Bike,13.6,64,,
+ORD10279,25-10-2024 07:38,CUST2207,Vikram Verma,F,39,Bangalore,Indiranagar,R001,Biryani Blues,Biryani,4.3,Mutton Biryani,Main Course,4,280,1120,Delivered,Wallet,Paid,Myra Pillai,Bicycle,13.5,62,3,
+ORD10291,11-Dec-24,CUST2216,Meera Sharma,m,37,Hyderabad,Madhapur,R014,  Healthy Bites  ,Salads,4.2,Fruit Bowl,Salads,1,120,120,Returned,Debit Card,Refunded,Kavya Mukherjee,Bike,7.3,35,,
+ORD10105,20-04-2024 23:22,CUST2078,Suresh Kapoor,MALE,47,Delhi,,R008,Taco Fiesta,Mexican,3.8,Chicken Tacos,Main Course,1,₹210.0,210,Delivered,Wallet,Paid,Reyansh Sharma,Bicycle,9.1,40,5,5
+ORD10045,11-03-2024 11:36,CUST2035,Ravi Verma,M,45, Pune ,Hinjewadi,R010,Kebab Junction,Mughlai,4.3,Seekh Kebab,Starters,1,220,220,Delivered,Credit Card,Paid,Sai Iyer,Bike,11.6,54,5,4
+ORD10021,13-04-2024 02:19,CUST2015,Myra Sharma,m,60,Hyderabad,Kukatpally,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,1,70,₹70.0,Delivered,DebitCard,Paid,Vikram Das,Scooter,,67,4,5
+ORD10477,22-Feb-24,CUST2113,Anika Menon,Female,23,delhi,Dwarka,R008,Taco Fiesta,Mexican,3.8,Chicken Tacos,Main Course,4,210,840,Cancelled,debit card,Failed,Aditya Menon,Bicycle,14.1,70,,
+ORD10174,03-10-2024 09:04,CUST2129,Rohan Sharma,m,44, Bangalore ,Indiranagar,R009,The Bakers Oven,Bakery,-1,Croissant,Bakery,1,90,₹90.0,delivered,upi,Paid,Pooja Gupta,Bike,3.7,29,3,4
+ORD10272,11-01-2024 05:44,CUST2201,Ananya Rao,female,19,HYDERABAD,Madhapur,R011,  Curry House  ,North Indian,4.1,Paneer Tikka,Starters,1,220,220,Cancelled,Credit Card,Failed,Kavya Mukherjee,Bike,1.7,19,,
+ORD10433,27-Apr-24,CUST2322,Kiran Gupta,male,36,Pune,Kothrud,R011,Curry House,North Indian,4.1,Paneer Tikka,Starters,2,220,440,cancelled,CREDIT CARD,Refunded,Suresh Kumar,E-Bike,2.2,24,,
+ORD10062,16-11-2024 02:01,CUST2046,Aditya Menon,female,31,Delhi,Connaught Place,R004,Punjabi Tadka,North Indian,4.4,Paneer Tikka,Starters,1,Rs.220.0,220,RETURNED,Debit Card,Refunded,Krishna Chatterjee,E-Bike,4.7,40,,
+ORD10034,15-11-2024 08:40,CUST2026,Manoj Singh,MALE,24,pune,Hinjewadi,R014,Healthy Bites,Salads,4.2,Quinoa Salad,Salads,5,Rs.210.0,1050,Delivered,wallet,Paid,Aarav Reddy,E-Bike,10.2,48,3,5
+ORD10220,01-08-2024 18:59,CUST2163,Rohan Malhotra,female,57,Bangalore,Koramangala,R011,Curry House,North Indian,4.1,Butter Chicken,Main Course,5,260,Rs.1300.0,Delivered,CashonDelivery,Paid,Vivaan Singh,E-Bike,5.4,30,5,4
+ORD10267,08-Nov-24,CUST2197,Diya Joshi,FEMALE,26,Chennai,Anna Nagar,R014,Healthy Bites,Salads,4.2,Caesar Salad,Salads,3,Rs.180.0,₹540.0,cancelled,Wallet,Failed,Aditya Menon,Bicycle,2.9,22,,
+ORD10192,31-10-2024 19:34,CUST2141,Priya Sharma,MALE,45,,Whitefield,R014,Healthy Bites,Salads,4.2,Quinoa Salad,Salads,5,210,1050,Delivered,Credit Card,Paid,Nikhil Malhotra,Bicycle,3.2,18,3,4
+ORD10124,24-10-2024 12:08,CUST2092,Vikram Malhotra,,45,Chennai,Adyar,R014,Healthy Bites,Salads,4.2,Caesar Salad,Salads,2,180,360,delivered,DebitCard,Paid,Sai Iyer,Bicycle,14.1,75,5,5
+ORD10251,16-12-2024 03:35,CUST2185,Amit Mukherjee,Male,56,Chennai,T Nagar,R004,Punjabi Tadka,North Indian,4.4,Paneer Tikka,Starters,4,220,Rs.880.0,Cancelled,UPI,Refunded,Ishaan Joshi,E-Bike,12.5,65,,
+ORD10487,15-Dec-24,CUST2360,Anil Bose,female,47,DELHI,Karol Bagh,R001,Biryani Blues,Biryani,4.3,Veg Biryani,Main Course,1,180,180,Delivered,Cash on Delivery,Paid,Pooja Gupta,E-Bike,9.5,55,4,4
+ORD10114,10-Sep-24,CUST2084,Aarohi Verma,,,CHENNAI,Anna Nagar,R011,  Curry House  ,North Indian,4.1,Butter Chicken,Main Course,1,260,260,Delivered,Cash on Delivery,Paid,Anika Kapoor,Bike,10.5,54,4,5
+ORD10144,17-08-2024,CUST2104,Deepak Das,male,29,,,R005,  Burger Point  ,Fast Food,3.9,Veg Burger,Burger,4,Rs.110.0,440,Delivered,Credit Card,Paid,Aditya Menon,Scooter,12.4,59,5,4
+ORD10087,06/23/2024,CUST2065,Sneha Iyer,male,41,HYDERABAD,Gachibowli,R006,South Spice,South Indian,4.5,Masala Dosa,Breakfast,3,90,Rs.270.0,Cancelled,Credit Card,Refunded,,E-Bike,10.7,52,,
+ORD10259,12/27/2024,CUST2192,Karthik Joshi,FEMALE,30, Chennai ,T Nagar,R012,Noodle Story,Chinese,3.7,Spring Rolls,Starters,1,140,140,Delivered,WALLET,Paid,Vikram Das,Scooter,5.7,36,4,5
+ORD10432,05-11-2024 03:00,CUST2099,Aditya Iyer,Male,43,Delhi,Connaught Place,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,2,Rs.70.0,140,Delivered,Credit Card,Paid,Suresh Kumar,E-Bike,2.7,23,5,4
+ORD10289,28-12-2024 13:02,CUST2214,Nikhil Joshi,male,40,Pune,Baner,R012,Noodle Story,Chinese,3.7,Spring Rolls,Starters,4,,560,Delivered,Credit Card,Paid,,E-Bike,8,,5,5
+ORD10008,03-06-2024,CUST2005,Sai Bose,Male,22,Kolkata,Park Street,R003,Dragon Wok,Chinese,11,Spring Rolls,Starters,4,140,560,delivered,Credit Card,Paid,Meera Bose,E-Bike,14.5,90,,4
+ORD10387,29-03-2024,CUST2110,Kiran Joshi,F,23,Pune,Kharadi,R014,Healthy Bites,Salads,4.2,Quinoa Salad,Salads,4,₹210.0,840,Delivered,WALLET,Paid,Kiran Desai,Bike,3.4,23,4,5
+ORD10497,13-10-2024 13:51,CUST2367,Deepak Iyer,Female,39,BANGALORE,Jayanagar,R015,Chaat Corner,Street Food,4,Vada Pav,Street Food,4,50,200,Delivered,Wallet,Paid,Meera Bose,Bike,4.1,33,4,
+ORD10476,09-09-2024 07:59,CUST2352,Suresh Kapoor,,,Hyderabad,Banjara Hills,R012,Noodle Story,Chinese,3.7,Chicken Manchurian,Main Course,5,₹210.0,1050,RETURNED,CASH ON DELIVERY,Refunded,Anika Kapoor,Scooter,9.1,56,,
+ORD10399,23-10-2024 11:47,CUST2040,Amit Malhotra,M,42,Mumbai,Powai,R009,The Bakers Oven,Bakery,4,Croissant,Bakery,4,₹90.0,360,returned,wallet,Refunded,Ishaan Joshi,E-Bike,6.5,40,,
+ORD10163,25-07-2024 00:41, CUST2119 ,Deepak Iyer,M,32,Delhi,Saket,R012,Noodle Story,Chinese,3.7,Veg Noodles,Noodles,1,160,160,Delivered,debit card,Paid,Aarohi Patel,E-Bike,11.8,65,4,3
+ORD10137,26-04-2024 05:27,CUST2100,Myra Gupta,M,54,Delhi,Rohini,R001,Biryani Blues,Biryani,4.3,Chicken Biryani,Main Course,3,220,660,DELIVERED,WALLET,Paid,Myra Pillai,Scooter,1,10,5,3
+ORD10022,21-05-2024 10:47,CUST2010,Anika Gupta,f,60,PUNE,Baner,R006,South Spice,South Indian,4.5,Uttapam,Breakfast,3,100,300,Delivered,wallet,Paid,Aditya Menon,Bicycle,4.4,26,5,4
+ORD10015,08-02-2024,CUST2010,Anika Gupta,Female,60,Pune,Hinjewadi,R004,Punjabi Tadka,North Indian,4.4,Paneer Tikka,Starters,4,220,880,Cancelled,DEBIT CARD,Failed,Ravi Rao,Bike,0.9,14,,
+ORD10379,05/24/2024,CUST2280,Divya Rao,F,49,Pune,Viman Nagar,R001,Biryani Blues,Biryani,4.3,Chicken Biryani,Main Course,3,220,,Delivered,UPI,Paid,Manoj Nair,E-Bike,8.8,57,5,3
+ORD10346,04/17/2024,CUST2253,Sai Desai,MALE,26,,Karol Bagh,R013,Sweet Tooth,Desserts,4.6,Gulab Jamun,Desserts,1,90,90,Returned,Credit Card,Refunded,Pooja Gupta,E-Bike,10.2,46,,
+ORD10057,19-Dec-24,CUST2044,Myra Desai,Female,40,Hyderabad,Madhapur,R010,  Kebab Junction  ,Mughlai,4.3,Seekh Kebab,Starters,2,220,₹440.0,RETURNED,upi,Refunded,Pooja Gupta,E-Bike,1.3,11,,
+ORD10273,14-Sep-24,CUST2202,Reyansh Patel,Male,57,Hyderabad,Gachibowli,R011,Curry House,north indian,4.1,Paneer Tikka,Starters,3,220,1195.57,Cancelled,Credit Card,Failed,Kiran Desai,Bicycle,2.7,19,,
+ORD10170,17-07-2024,CUST2125,Ananya Menon,Female,26,Pune,Hinjewadi,R012,Noodle Story,Chinese,3.7,Veg Noodles,Noodles,1,160,160,DELIVERED,Cash on Delivery,Paid,Meera Bose,Bike,4.5,35,5,
+ORD10189,,CUST2140,Ananya Chatterjee,FEMALE,49,Delhi,Rohini,R009,The Bakers Oven,Bakery,,Croissant,Bakery,1,90,90,Delivered,Wallet,Paid,Myra Pillai,E-Bike,1.8,17,4,4
+ORD10496,09-03-2024 02:12,CUST2366,Arjun Gupta,Male,44,mumbai,Malad,R008,Taco Fiesta,Mexican,3.8,Chicken Tacos,Main Course,5,₹210.0,1050,DELIVERED,credit card,Paid,Kavya Mukherjee,Scooter,14.7,83,4,4
+ORD10499,24-08-2024 03:33,CUST2369,KAVYA DAS,m,59,Kolkata,Salt Lake,R009,The Bakers Oven,Bakery,4,Croissant,Bakery,3,Rs.90.0,270,delivered,Credit Card,Paid,Ravi Rao,Bicycle,3.7,27,4,4
+ORD10341,13-09-2024 13:51,CUST2250,Sanjay Menon,male,29,Mumbai,Bandra,R008,Taco Fiesta,Mexican,3.8,Chicken Tacos,Main Course,5,210,₹1050.0,Delivered,DEBIT CARD,Paid,Aarohi Patel,Bicycle,12.7,72,5,4
+ORD10095,01-04-2024 15:38,CUST2008,Vihaan Pillai,Male,39,Kolkata,Salt Lake,R011,Curry House,North Indian,4.1,Dal Makhani,Main Course,4,180,720,Delivered,WALLET,Paid,Nikhil Malhotra,Bicycle,12.9,72,4,3
+ORD10405,22-11-2024,CUST2301,Suresh Malhotra,M,41,NA,Kothrud,R006,South Spice,South Indian,4.5,Uttapam,Breakfast,4,Rs.100.0,400,Delivered,Credit Card,Paid,Aarohi Patel,Scooter,7.5,39,,3
+ORD10020,28-04-2024,CUST2014,Diya Chatterjee,Male,19,Hyderabad,Banjara Hills,R013,Sweet Tooth,Desserts,4.6,Ice Cream Sundae,Desserts,0,150,300,DELIVERED,Credit Card,Paid,Aditya Menon,Bike,13,64,3,4
+ORD10308,17-01-2024 11:20,CUST2228,Aarohi Chatterjee,f,,kolkata,Salt Lake,R010,Kebab Junction,Mughlai,4.3,Mutton Rogan Josh,Main Course,4,320,1280,Returned,Debit Card,Refunded,Suresh Kumar,Bike,8.2,49,,
+ORD10075,02-Jun-24,CUST2056,Nikhil Chatterjee,FEMALE,36,Bangalore,HSR Layout,R001,Biryani Blues,Biryani,4.3,Mutton Biryani,Main Course,2,280,560,Delivered,Cash on Delivery,Paid,Vivaan Singh,E-Bike,250,61,5,3
+ORD10032,19-Feb-24,CUST2001,Ravi Patel,f,20,Pune,Kharadi,R001,Biryani Blues,Biryani,4.3,Mutton Biryani,Main Course,2,280,560,returned,UPI,Refunded,Nikhil Malhotra,Bicycle,3.6,19,,
+ORD10484,28-01-2024 04:15,CUST2358,Ananya Nair,male,53,hyderabad,Gachibowli,R014,Healthy Bites,Salads,4.2,Quinoa Salad,Salads,5,Rs.210.0,Rs.1050.0,delivered,UPI,Paid,Ishaan Joshi,Bike,13.7,65,4,5
+ORD10318,31-03-2024,CUST2232,Deepak Desai,m,36,Delhi,,R014,Healthy Bites,Salads,4.2,Fruit Bowl,Salads,3,120,360,Delivered,wallet,Paid,Aarohi Patel,E-Bike,8.2,48,4,5
+ORD10472,04-11-2024,CUST2059,Vikram Mukherjee,F,5,bangalore,Indiranagar,R005,Burger Point,Fast Food,3.9,French Fries,Sides,2,90,180,Returned,WALLET,Refunded,Krishna Chatterjee,Bike,3.6,21,,
+ORD10129,08-Nov-24,CUST2043,Sneha Bose,M,24,Hyderabad,Gachibowli,R015,Chaat Corner,Street Food,4,Bhel Puri,Street Food,3,70,Rs.210.0,Delivered,Wallet,Paid,Krishna Chatterjee,Scooter,6.2,34,3,
+ORD10217,27-09-2024 08:46,CUST2160,Kiran Patel,Female,5,Mumbai,Powai,R003,Dragon Wok,Chinese,4,Veg Noodles,Noodles,4,160,640,DELIVERED,cash on delivery,Paid,Aditya Menon,E-Bike,12.2,71,3,4
+ORD10298,14-Nov-24,CUST2220,Kiran Reddy,F,46,BANGALORE,Indiranagar,R004,Punjabi Tadka,North Indian,4.4,Dal Makhani,Main Course,3,180,540,Cancelled,UPI,Refunded,Krishna Chatterjee,Bicycle,14.3,-15,,
+ORD10252,02-11-2024 15:11,CUST2186,Gita Kapoor,M,25, Bangalore ,HSR Layout,R011,Curry House,North Indian,4.1,Butter Chicken,Main Course,5,260,1300,Delivered,UPI,Paid,Meera Bose,E-Bike,6.1,32,4,5
+ORD10122,21-04-2024 11:52,CUST2090,Vivaan Pillai,Female,34, Kolkata ,Salt Lake,R012,Noodle Story,chinese,3.7,Veg Noodles,Noodles,5,160,800,Delivered,UPI,Paid,Aarav Reddy,Bike,8.5,44,5,3
+ORD10295,05-08-2024 05:01,CUST2219,Pooja Kumar,Male,43,HYDERABAD,Madhapur,R006,South Spice,South Indian,4.5,Masala Dosa,Breakfast,4,₹90.0,360,Delivered,UPI,Paid,Sai Iyer,Bike,,40,4,5
+ORD10452,19-10-2024 04:46,CUST2335,Vivaan Verma,MALE,37,Delhi,Saket,R006,South Spice,South Indian,4.5,Masala Dosa,Breakfast,4,90,360,Delivered,debit card,Paid,Kavya Mukherjee,Bike,3.7,29,5,5
+ORD10260,06-08-2024,CUST2193,Anika Rao,m,44,Chennai,T Nagar,R009,The Bakers Oven,Bakery,4,Chocolate Cake,Desserts,5,₹350.0,Rs.1750.0,Delivered,DEBIT CARD,Paid,Meera Bose,Scooter,13.2,78,5,5
+ORD10219,09/14/2024,CUST2162,Sanjay Verma,f,22,Mumbai,Powai,R001,Biryani Blues,Biryani,4.3,Veg Biryani,Main Course,5,180,900,Returned,Wallet,Refunded,Ravi Rao,Bike,6.9,43,,
+ORD10038,25-03-2024 00:51,CUST2030,Sunita Kapoor,FEMALE,40, Delhi ,Karol Bagh,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,4,70,486.06,Delivered,N/A,Paid,Reyansh Sharma,Bike,11,57,4,4
+ORD10382,20-02-2024,CUST2249,Kiran Sharma,Female,36,DELHI,Connaught Place,R006,South Spice,South Indian,4.5,Masala Dosa,Breakfast,1,90,90,Cancelled,Credit Card,Refunded,Ishaan Joshi,Bike,6.7,41,,
+ORD10211,08-01-2024 10:15,CUST2075,Sai Patel,female,30,pune,Baner,R012,Noodle Story,Chinese,3.7,Spring Rolls,Starters,5,₹140.0,700,Delivered,Debit Card,Paid,Aarohi Patel,Scooter,14.9,79,4,5
+ORD10325,18-Mar-24,CUST2218,Nikhil Pillai,m,21,mumbai,Malad,R014,Healthy Bites,Salads,4.2,Caesar Salad,Salads,3,180,540,Delivered,UPI,Paid,Meera Bose,Scooter,1.1,16,4,4
+ORD10190,02-03-2024,CUST2044,Myra Desai,Female,40,Hyderabad,Kukatpally,R003,Dragon Wok,Chinese,4,Spring Rolls,Starters,1,140,140,Delivered,UPI,Paid,Suresh Kumar,E-Bike,10.8,58,5,5
+ORD10102,25-06-2024 03:20,CUST2076,Vivaan Iyer,MALE,20,PUNE,Kharadi,R005,Burger Point,Fast Food,,Veg Burger,Burger,2,110,220,DELIVERED,CASH ON DELIVERY,Paid,Anika Kapoor,Scooter,9.9,,5,4
+ORD10055,26-06-2024 10:01,CUST2042,Manoj Reddy,f,32, Delhi ,Rohini,R008,Taco Fiesta,Mexican,3.8,Nachos,Starters,1,180,180,Delivered,,Paid,Vivaan Singh,E-Bike,14.2,85,,4
+ORD10056,16-10-2024 09:30,CUST2043,Sneha Bose,Male,24,hyderabad,Kukatpally,R010,Kebab Junction,Mughlai,4.3,Seekh Kebab,Starters,5,220,1100,DELIVERED,Debit Card,Paid,Aditya Menon,Scooter,0.9,17,3,5
+ORD10465,22-12-2024 22:46,CUST2342,Arjun Desai,MALE,57,Delhi,Saket,R011,Curry House,North Indian,4.1,Paneer Tikka,Starters,5,220,1100,delivered,UPI,Paid,Krishna Chatterjee,E-Bike,5.2,32,4,3
+ORD10042,07-06-2024,CUST2033,Manoj Chatterjee,female,37,Chennai,OMR,R001,Biryani Blues,Biryani,4.3,Veg Biryani,Main Course,1,180,180,Cancelled,Credit Card,Failed,Vivaan Singh,Bicycle,4.2,25,,
+ORD10204,10-04-2024 18:01,CUST2152,Nikhil Das,FEMALE,35,MUMBAI,Powai,R004,Punjabi Tadka,North Indian,4.4,Butter Chicken,Main Course,5,260,1300,Cancelled,upi,Failed,Ravi Rao,Bicycle,11,67,,6
+ORD10145,23-06-2024 09:36,CUST2105,Sunita Sharma,M,47,pune,Viman Nagar,R008,Taco Fiesta,Mexican,3.8,Nachos,Starters,1,Rs.180.0,180,Delivered,Cash on Delivery,Paid,Pooja Gupta,Bicycle,,,5,3
+ORD10297,15-11-2024,CUST2172,Sunita Verma,f,,Pune,Baner,R007,Sushi Yama,Japanese,0,Chicken Ramen,Main Course,3,280,840,Cancelled,DEBIT CARD,Failed,Suresh Kumar,Bike,11.7,53,,
+ORD10337,25-02-2024 04:21,CUST2128,Vikram Kumar,m,37, Mumbai ,Bandra,R012,Noodle Story,Chinese,3.7,Spring Rolls,Starters,3,140,₹420.0,Delivered,WALLET,Paid,Krishna Chatterjee,Bike,8.9,49,5,3
+ORD10176,11-02-2024 00:48,CUST2130,Ishaan Singh,female,36, Mumbai ,Powai,R015,Chaat Corner,Street Food,4,Bhel Puri,Street Food,3,70,210,DELIVERED,CASH ON DELIVERY,Paid,Reyansh Sharma,Bike,14.2,66,3,4
+ORD10353,25-08-2024 09:02,CUST2073,Sunita Joshi,Female,41,Delhi,Connaught Place,R011,  Curry House  ,north indian,4.1,Butter Chicken,Main Course,4,260,1040,Delivered,UPI,Paid,Aarohi Patel,Bike,3.2,19,3,5
+ORD10425,18-01-2024 13:50,CUST2317,Divya Nair,f,47,PUNE,Kharadi,R014,Healthy Bites,Salads,4.2,Fruit Bowl,Salads,3,120,360,DELIVERED,Wallet,Paid,Meera Bose,Bike,2.4,18,4,5
+ORD10475,30-05-2024 17:30,CUST2351,Rohan Das,F,33,bangalore,Electronic City,R013,Sweet Tooth,Desserts,4.6,Ice Cream Sundae,Desserts,2,150,300,DELIVERED,WALLET,Paid,Ishaan Joshi,Bike,11.9,71,4,0
+ORD10349,08-08-2024 07:05,CUST2256,unknown,Male,54,bangalore,,R012,Noodle Story,Chinese,3.7,Chicken Manchurian,Main Course,4,210,840,Delivered,CASH ON DELIVERY,Paid,Vikram Das,Bicycle,0.8,17,5,3
+ORD10258,04-06-2024 02:59, CUST2191 ,Aadhya Verma,F,56,Chennai,OMR,R012,Noodle Story,Chinese,3.7,Veg Noodles,Noodles,5,160,Rs.800.0,CANCELLED,UPI,Failed,Reyansh Sharma,Bike,14.7,61,,
+ORD10354,16-02-2024 21:57,CUST2033,Manoj Chatterjee,Female,,Chennai,T Nagar,R002,Pizza Palace,italian,4.1,Pepperoni Pizza,Pizza,5,320,1600,Delivered,Credit Card,Paid,Ishaan Joshi,E-Bike,5.6,41,5,4
+ORD10050,23-10-2024 06:29,CUST2027,Priya Mukherjee,FEMALE,27,Delhi,Rohini,R015,Chaat Corner,Street Food,4,Vada Pav,Street Food,3,50,150,Delivered,Debit Card,Paid,,E-Bike,13.1,67,4,5
+ORD10125,28-10-2024 09:26,CUST2093,Aarohi Gupta,NA,22,Bangalore,Jayanagar,R001,Biryani Blues,Biryani,,Mutton Biryani,Main Course,5,280,1400,Returned,UPI,Refunded,Krishna Chatterjee,E-Bike,7,44,,
+ORD10381,20-07-2024,CUST2282,Ramesh Gupta,N/A,58,HYDERABAD,Gachibowli,R010,Kebab Junction,Mughlai,4.3,Chicken Kebab,Starters,5,240,1200,Delivered,Debit Card,Paid,Sai Iyer,Scooter,2.2,23,5,4
+ORD10012,25-12-2024 19:46,CUST2001,Ravi Patel,FEMALE,20,pune,Kothrud,R015,Chaat Corner,Street Food,4,Pani Puri,Street Food,2,₹60.0,Rs.120.0,Delivered,cash on delivery,Paid,Ishaan Joshi,E-Bike,0,57,,4
+ORD10407,12/25/2024,CUST2047,Nikhil Desai,m,19,Bangalore,Indiranagar,R005,Burger Point,Fast Food,3.9,Cheese Burger,Burger,2,Rs.130.0,260,Delivered,Debit Card,Paid,Krishna Chatterjee,Scooter,13.1,81,5,5
+ORD10306,03/16/2024,CUST2227,Ravi Singh,m,32, Pune ,Kothrud,R006,South Spice,South Indian,4.5,Masala Dosa,Breakfast,4,Rs.90.0,360,cancelled,Wallet,Failed,Aarav Reddy,Bicycle,12.9,64,,
+ORD10208,16-04-2024 05:27,CUST2155,Ishaan Gupta,M,39,null,Karol Bagh,R015,Chaat Corner,Street Food,4,Bhel Puri,Street Food,2,Rs.70.0,140,DELIVERED,,Paid,Anika Kapoor,Scooter,9.8,49,3,5
+ORD10151,11-12-2024,CUST2109,Priya Das,m,30,Delhi,Saket,R005,Burger Point,Fast Food,3.9,Veg Burger,Burger,4,110,440,Delivered,DEBIT CARD,Paid,Suresh Kumar,E-Bike,9.1,51,,4
+ORD10241,02-Jan-24,CUST2018,Riya Kapoor,male,60,Pune,Viman Nagar,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,-4,70,Rs.280.0,Delivered,Wallet,Paid,Manoj Nair,Bicycle,8.8,45,5,4
+ORD10013,25-07-2024,CUST2009,Riya Chatterjee,F,53,pune,Baner,R003,Dragon Wok,Chinese,4,Veg Noodles,Noodles,3,Rs.160.0,480,Cancelled,UPI,Refunded,Ravi Rao,Bike,,20,,
+ORD10230,08-03-2024 11:53,CUST2172,Sunita Verma,f,18,Pune,Hinjewadi,R004,Punjabi Tadka,North Indian,4.4,Dal Makhani,Main Course,4,Rs.180.0,720,Cancelled,,Refunded,Ishaan Joshi,Scooter,7.2,45,,
+ORD10240,08-02-2024 20:29,CUST2141,Priya Sharma,Male,45,Bangalore,HSR Layout,R011,Curry House,North Indian,4.1,Dal Makhani,Main Course,1,180,Rs.180.0,Delivered,UPI,Paid,Kavya Mukherjee,Bicycle,11.1,57,4,4
+ORD10103,20-02-2024 18:49,CUST2008,Vihaan Pillai,,39,Kolkata,Park Street,R008,Taco Fiesta,Mexican,3.8,Nachos,Starters,4,180,720,Delivered,Credit Card,Paid,Suresh Kumar,Bicycle,5.2,38,4,5
+ORD10159,14-04-2024 06:56,CUST2116,Vikram Bose,FEMALE,38,Chennai,T Nagar,R014,Healthy Bites,Salads,4.2,Quinoa Salad,Salads,1,210,210,Returned,Cash on Delivery,Refunded,Vivaan Singh,E-Bike,3.9,24,,
+ORD10205,11-03-2024 08:18,CUST2153,Sneha Verma,F,55,Pune,Kharadi,R014,Healthy Bites,Salads,4.2,Caesar Salad,Salads,3,180,₹540.0,Returned,Credit Card,Refunded,Aarav Reddy,Scooter,,80,,
+ORD10203,25-01-2024 19:00,CUST2151,Vikram Patel,female,31,Delhi,Rohini,R011,Curry House,North Indian,4.1,Dal Makhani,Main Course,5,180,900,Delivered,WALLET,Paid,Nikhil Malhotra,Scooter,8.8,49,3,5
+ORD10185,30-09-2024 14:46,CUST2052,Krishna Chatterjee,female,40,KOLKATA,Park Street,R006,South Spice,South Indian,4.5,Uttapam,Breakfast,2,100,200,delivered,,Paid,Aarohi Patel,Bicycle,11.8,74,3,4
+ORD10029,17-10-2024 07:21,CUST2022,Divya Verma,Female,31,Kolkata,Ballygunge,R007,Sushi Yama,Japanese,4.2,Miso Soup,Starters,1,₹150.0,241.85,Delivered,Cash on Delivery,Paid,Nikhil Malhotra,Scooter,5,35,5,5
+ORD10181,09-01-2024,CUST2133,Aditya Desai,m,57,chennai,Anna Nagar,R011,Curry House,North Indian,4.1,Paneer Tikka,Starters,4,220,880,Delivered,wallet,Paid,Krishna Chatterjee,Bike,4.8,25,5,
+ORD10107,02-07-2024 23:36,CUST2080,Ishaan Nair,M,43,Mumbai,Powai,R009,The Bakers Oven,Bakery,4,Croissant,Bakery,2,90,180,CANCELLED,wallet,Failed,Meera Bose,Bike,1.4,13,,
+ORD10365,29-05-2024,CUST2236,Divya Iyer,f,49,hyderabad,Secunderabad,R012,Noodle Story,Chineese,3.7,Spring Rolls,Starters,1,140,140,Delivered,Cash on Delivery,Paid,Aditya Menon,Bicycle,,60,3,3
+ORD10450,10-01-2024 08:13,CUST2333,Vivaan Patel,Male,31,Hyderabad,Secunderabad,R008,Taco Fiesta,Mexican,3.8,Chicken Tacos,Main Course,5,210,Rs.1050.0,Delivered,Debit Card,Paid,Manoj Nair,Bike,7.8,50,4,5
+ORD10383,18-02-2024 16:17,CUST2283,Neha Kumar,FEMALE,41,HYDERABAD,Kukatpally,R015,Chaat Corner,Street Food,4,Vada Pav,Street Food,5,50,₹250.0,delivered,CreditCard,Paid,Nikhil Malhotra,Bike,4,27,4,4
+ORD10282,07-08-2024,CUST2210,Ravi Reddy,F,41,Kolkata,Salt Lake,R004,Punjabi Tadka,North Indian,4.4,Butter Chicken,Main Course,4,260,1040,Delivered,Wallet,Paid,Krishna Chatterjee,Bike,5.8,,3,
+ORD10083,07-10-2024 01:54,CUST2062,Ishaan Reddy,Male,22,Mumbai,Andheri,R009,The Bakers Oven,Bakery,4,Cupcake,Desserts,5,80,400,Delivered,Debit Card,Paid,Suresh Kumar,E-Bike,3,23,5,4
+ORD10191,22-11-2024 04:00,CUST2085,Deepak Gupta,Female,,Mumbai,,R004,Punjabi Tadka,North Indian,4.4,Paneer Tikka,Starters,5,₹220.0,1100,Returned,Wallet,Refunded,Pooja Gupta,Scooter,4.2,25,,
+ORD10053,05-03-2024 14:37,CUST2040,Amit Malhotra,male,42,MUMBAI,Dadar,R014,Healthy Bites,Salads,4.2,Quinoa Salad,Salads,1,Rs.210.0,210,Delivered,UPI,Paid,Pooja Gupta,Bicycle,11.4,55,3,5
+ORD10135,26-Apr-24,CUST2098,Diya Nair,female,24,chennai,Anna Nagar,R004,Punjabi Tadka,North Indian,4.4,Butter Chicken,Main Course,5,260,Rs.1300.0,Delivered,Debit Card,Paid,Sai Iyer,E-Bike,1.9,19,4,4
+ORD10131,02-08-2024 21:14,CUST2095,Meera Patel,FEMALE,41,CHENNAI,Adyar,R008,Taco Fiesta,Mexican,3.8,Chicken Tacos,Main Course,4,Rs.210.0,840,Delivered,credit card,Paid,Ravi Rao,E-Bike,1.4,19,3,4
+ORD10202,13-12-2024,CUST2150,Saanvi Patel,,59,Delhi,Karol Bagh,R001,Biryani Blues,Biryani,4.3,Veg Biryani,Main Course,1,180,180,Delivered,credit card,Paid,Suresh Kumar,Bike,4,33,4,5
+ORD10099,23-06-2024,CUST2073,Sunita Joshi,female,41,DELHI,Karol Bagh,R003,Dragon Wok,Chinese,4,Spring Rolls,Starters,1,,140,Delivered,DEBIT CARD,Paid,Anika Kapoor,E-Bike,11.7,65,4,3
+ORD10275,04-01-2024 13:07,CUST2204,Sai Mukherjee,MALE,37,Mumbai,Dadar,R005,  Burger Point  ,Fast Food,3.9,Cheese Burger,Burger,3,₹130.0,390,Delivered,UPI,Paid,Aarav Reddy,Scooter,7.5,40,5,
+ORD10263,19-Sep-24,CUST2189,Reyansh Gupta,MALE,50,Delhi,Dwarka,R014,Healthy Bites,Salads,4.2,Fruit Bowl,Salads,2,Rs.120.0,312.99,CANCELLED,CREDIT CARD,Refunded,Suresh Kumar,Scooter,3,25,,
+ORD10235,17-10-2024 01:31,CUST2176,Rahul Kapoor,M,23,Bangalore,Indiranagar,R013,Sweet Tooth,Desserts,4.6,Brownie,Desserts,5,130,650,Delivered,UPI,Paid,Ishaan Joshi,E-Bike,12.7,62,,3
+ORD10373,06-11-2024 12:35,CUST2275,Vivaan Pillai,M,49,Kolkata,Park Street,R008,Taco Fiesta,Mexican,-1,Nachos,Starters,2,180,₹360.0,Delivered,wallet,Paid,Pooja Gupta,E-Bike,13.5,85,5,4
+ORD10422,04/14/2024,CUST2315,Sneha Pillai,MALE,36,,Viman Nagar,R002,Pizza Palace,Italian,4.1,Pepperoni Pizza,Pizza,4,320,Rs.1280.0,DELIVERED,debit card,Paid,Aarav Reddy,Bike,12.6,66,5,5
+ORD10218,23-12-2024 10:43,CUST2161,,male,55,Delhi,Karol Bagh,R011,  Curry House  ,North Indian,4.1,Paneer Tikka,Starters,2,220,440,Delivered,cash on delivery,Paid,Suresh Kumar,Bike,13,80,4,5
+ORD10127,26-05-2024 04:51,CUST2076,Vivaan Iyer,M,20,Pune,Viman Nagar,R011,Curry House,North Indian,4.1,Dal Makhani,Main Course,-4,180,720,Delivered,Cash on Delivery,Paid,Aarav Reddy,E-Bike,12,58,,4
+ORD10296,11-08-2024,CUST2102,Reyansh Sharma,Female,23,MUMBAI,Malad,R004,Punjabi Tadka,north indian,4.4,Dal Makhani,Main Course,5,180,1240.43,Returned,wallet,Refunded,Reyansh Sharma,Bike,4.6,31,,
+ORD10106,18-04-2024 15:11,CUST2079,Pooja Reddy,Male,34,Pune,Hinjewadi,R013,Sweet Tooth,Desserts,4.6,Ice Cream Sundae,Desserts,3,150,Rs.450.0,Delivered,Cash on Delivery,Paid,Manoj Nair,Bicycle,5.9,32,5,5
+ORD10317,12-02-2024,CUST2110,Kiran Joshi,FEMALE,23,pune,Kharadi,R002,Pizza Palace,Italian,4.1,Pepperoni Pizza,Pizza,4,320,1280,Cancelled,UPI,Failed,Ravi Rao,E-Bike,8.2,51,,
+ORD10421,08-01-2024 23:11,CUST2314,Saanvi Verma,Male,59,Mumbai,Powai,R013,  Sweet Tooth  ,Desserts,4.6,Gulab Jamun,Desserts,1,90,135.3,Delivered,WALLET,Paid,Vivaan Singh,E-Bike,4.4,30,5,3
+ORD10010,01-12-2024 11:32,CUST2007,Kavya Bose,M,31,Chennai,Anna Nagar,R012,Noodle Story,Chinese,3.7,Spring Rolls,Starters,5,140,700,Delivered,credit card,Paid,Lakshmi Verma,Bicycle,2.1,18,5,5
+ORD10104,07-10-2024 01:24,CUST2077,Rahul Singh,MALE,47,Bangalore,,R008,Taco Fiesta,Mexican,3.8,Chicken Tacos,Main Course,2,₹210.0,420,delivered,UPI,Paid,Aditya Menon,E-Bike,4.3,29,4,5
+ORD10213,23-08-2024 04:55,CUST2157,Vivaan Verma,m,25,Delhi,Connaught Place,R007,Sushi Yama,Japanese,4.2,California Roll,Sushi,5,Rs.320.0,1600,DELIVERED,Cash on Delivery,Paid,Ishaan Joshi,Bike,5.1,36,4,5
+ORD10415,12-06-2024,CUST2309,,male,50,CHENNAI,Adyar,R005,Burger Point,Fast Food,3.9,French Fries,Sides,3,90,₹270.0,Cancelled,WALLET,Refunded,Manoj Nair,Bicycle,4.5,34,,
+ORD10078,04-05-2024 20:50,CUST2059,Vikram Mukherjee,Female,20,Bangalore,Whitefield,R014,Healthy Bites,Salads,4.2,Fruit Bowl,Salads,1,120,120,RETURNED,UPI,Refunded,Kiran Desai,Bike,7.2,48,,
+ORD10278,11-01-2024,CUST2137,Manoj Nair,F,39,MUMBAI,Andheri,R003,Dragon Wok,Chinese,4,Veg Noodles,Noodles,3,160,480,DELIVERED,Credit Card,Paid,Nikhil Malhotra,Bicycle,2.1,14,5,4
+ORD10009,29-11-2024 20:22,CUST2006,Sanjay Kapoor,f,46,Bangalore,Indiranagar,R004,Punjabi Tadka,North Indian,4.4,Butter Chicken,Main Course,3,260,₹780.0,DELIVERED,Wallet,Paid,Manoj Nair,Bicycle,0.9,500,3,3
+ORD10453,28-04-2024 07:11,CUST2336,Kavya Verma,Male,38,delhi,Karol Bagh,R007,Sushi Yama,Japanese,4.2,California Roll,Sushi,4,320,1280,Delivered,cash on delivery,Paid,Nikhil Malhotra,Scooter,8.7,46,5,4
+ORD10199,12-01-2024 05:48,CUST2148,Aadhya Mukherjee,M,,Kolkata,Ballygunge,R012,Noodle Story,Chinese,3.7,Chicken Manchurian,Main Course,-5,210,1050,DELIVERED,upi,Paid,Vivaan Singh,Scooter,10.9,59,5,
+ORD10003,04-12-2024,CUST2003,Rahul Verma,m,32,kolkata,Salt Lake,R013,Sweet Tooth,Desserts,4.6,Ice Cream Sundae,Desserts,4,150,600,Delivered,UPI,Paid,Manoj Nair,Scooter,3.8,30,5,4
+ORD10334,28-May-24,CUST2244,Ishaan Kumar,F,21,Mumbai,Malad,R001,Biryani Blues,Biryani,4.3,Chicken Biryani,Main Course,5,220,1100,delivered,upi,Paid,Nikhil Malhotra,Bicycle,6.9,43,5,5
+ORD10222,07-02-2024 20:10,CUST2165,,F,31,Pune,Baner,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,1,70,₹70.0,CANCELLED,CASH ON DELIVERY,Failed,Vikram Das,E-Bike,-3.5,56,,
+ORD10332,13-Sep-24,CUST2243,Meera Pillai,M,22, Chennai ,T Nagar,R011,Curry House,North Indian,4.1,Dal Makhani,Main Course,4,180,720,Delivered,Cash on Delivery,Paid,Vivaan Singh,Bicycle,12.4,79,,4
+ORD10394,11-01-2024 22:20,CUST2292,Sunita Malhotra,female,54,delhi,Connaught Place,R009,The Bakers Oven,Bakery,4,Chocolate Cake,Desserts,5,350,1750,DELIVERED,Cash on Delivery,Paid,Anika Kapoor,E-Bike,9.6,55,4,3
+ORD10269,08-12-2024,CUST2198,Nikhil Nair,FEMALE,46, Pune ,Hinjewadi,R005,Burger Point,Fast Food,3.9,French Fries,Sides,3,₹90.0,270,Delivered,WALLET,Paid,Aarav Reddy,Bike,6.6,39,5,
+ORD10198,10-10-2024 00:54,CUST2147,Aarohi Verma,Female,48,Mumbai,Powai,R001,Biryani Blues,Biryani,4.3,Mutton Biryani,Main Course,3,280,840,Delivered,debit card,Paid,Kavya Mukherjee,Bicycle,2.7,24,4,4
+ORD10026,20-Jan-24,CUST2019,Divya Joshi,female,,PUNE,Baner,R008,Taco Fiesta,Mexican,3.8,Nachos,Starters,2,180,360,Cancelled,UPI,Refunded,Lakshmi Verma,Bicycle,3.3,28,,
+ORD10285,12-02-2024 21:36,CUST2212,Diya Sharma,F,57,kolkata,Howrah,R013,Sweet Tooth,Desserts,4.6,Brownie,Desserts,2,130,Rs.260.0,Delivered,UPI,Paid,Ishaan Joshi,E-Bike,11.7,52,5,4
+ORD10299,06-07-2024 14:07,CUST2088,Anika Menon,MALE,33,Bangalore,Electronic City,R013,Sweet Tooth,Desserts,4.6,Gulab Jamun,Desserts,3,90,270,Delivered,Cash on Delivery,Paid,Ravi Rao,Bicycle,11.3,54,4,5
+ORD10196,06-08-2024 12:35,CUST2145,Sai Pillai,male,53,Delhi,Karol Bagh,R006,South Spice,South Indian,,Idli Sambar,Breakfast,5,70,350,DELIVERED,UPI,Paid,Kavya Mukherjee,E-Bike,2.9,24,3,3
+ORD10468,18-May-24,CUST2345,Neha Chatterjee,f,48,Pune,Kharadi,R008,Taco Fiesta,Mexican,3.8,Chicken Tacos,Main Course,2,₹210.0,₹420.0,Cancelled,UPI,Refunded,Aarohi Patel,Scooter,9.1,52,,
+ORD10351,29-04-2024 12:15,CUST2258,Nikhil Menon,M,49,BANGALORE,Electronic City,R008,Taco Fiesta,Mexican,3.8,Burrito Bowl,Main Course,2,240,480,Cancelled,UPI,Refunded,Nikhil Malhotra,Bicycle,7.7,38,,
+ORD10051,03-12-2024 18:11,CUST2039,Rahul Gupta,female,33,CHENNAI,Adyar,R004,Punjabi Tadka,North Indian,4.4,Paneer Tikka,Starters,1,220,220,Delivered,CashonDelivery,Paid,Aditya Menon,Bicycle,7.8,37,5,4
+ORD10447,21-02-2024 13:52,CUST2331,Saanvi Rao,female,49, Bangalore ,Koramangala,R009,  The Bakers Oven  ,Bakery,4,Croissant,Bakery,1,90,,DELIVERED,Cash on Delivery,Paid,Manoj Nair,Scooter,8.8,59,5,5
+ORD10086,06-02-2024,CUST2011,Reyansh Reddy,FEMALE,34,Bangalore,Indiranagar,R005,Burger Point,Fast Food,3.9,French Fries,Sides,5,90,₹450.0,Cancelled,Cash on Delivery,Refunded,Reyansh Sharma,E-Bike,13.4,80,,
+ORD10160,26-Jun-24,CUST2117,Amit Malhotra,Female,54,hyderabad,Secunderabad, R014 ,Healthy Bites,Salads,4.2,Fruit Bowl,Salads,3,Rs.120.0,360,Returned,upi,Refunded,Kavya Mukherjee,E-Bike,1,11,,
+ORD10165,07-09-2024 22:44,CUST2121,Ishaan Singh,F,35, Pune ,Kothrud,R004,Punjabi Tadka,North Indian,4.4,Dal Makhani,Main Course,5,180,900,DELIVERED,Wallet,Paid,Nikhil Malhotra,Scooter,3.7,,,4
+ORD10426,10-04-2024 17:00,CUST2153,Sneha Verma,female,55,Pune,Hinjewadi,R010,Kebab Junction,Mughlai,4.3,Mutton Rogan Josh,Main Course,4,320,1280,Returned,Cash on Delivery,Refunded,Ravi Rao,Bicycle,3.8,28,,
+ORD10023,27-Aug-24,CUST2016,Kiran Das,,60,Kolkata,Salt Lake,R012,Noodle Story,Chinese,3.7,Chicken Manchurian,Main Course,5,210,1050,Delivered,Cash on Delivery,Paid,Aditya Menon,Scooter,8.7,45,5,4
+ORD10063,02-11-2024,CUST2047,Nikhil Desai,M,19,Bangalore,Whitefield,R004,Punjabi Tadka,North Indian,4.4,Butter Chicken,Main Course,5,260,,Cancelled,upi,Refunded,Manoj Nair,Bicycle,12.3,61,,
+ORD10456,07-May-24,CUST2338,Krishna Reddy,,53,MUMBAI,Dadar,R004,Punjabi Tadka,North Indian,4.4,Dal Makhani,Main Course,5,180,Rs.900.0,Delivered,Debit Card,Paid,Kiran Desai,Scooter,4.3,31,5,5
+ORD10100,31-12-2024 09:51,CUST2074,Ishaan Malhotra,F,,Chennai,Anna Nagar,R013,Sweet Tooth,Desserts,,Gulab Jamun,Desserts,4,90,360,Delivered,UPI,Paid,Meera Bose,Bicycle,5.1,33,4,4
+ORD10070,03-01-2024 08:54,CUST2053,Krishna Patel,f,54,HYDERABAD,Kukatpally,R014,Healthy Bites,Salads,4.2,Quinoa Salad,Salads,5,210,₹1050.0,delivered,WALLET,Paid,Suresh Kumar,Scooter,1.2,17,4,4
+ORD10444,11-10-2024 04:05,CUST2218,Nikhil Pillai,m,21,Mumbai,Bandra,R008,Taco Fiesta,Mexican,3.8,Chicken Tacos,Main Course,4,210,840,Delivered,Debit Card,Paid,Manoj Nair,E-Bike,13.2,72,5,5
+ORD10187,05-08-2024,CUST2138,Ishaan Rao,female,18,Pune,Kharadi,R007,Sushi Yama,Japanese,4.2,Miso Soup,Starters,1,Rs.150.0,₹150.0,cancelled,Wallet,Failed,Suresh Kumar,Bicycle,9.9,46,,
+ORD10403,14-09-2024 22:57,CUST2043,Sneha Bose,M,24,Hyderabad,Banjara Hills,R010,Kebab Junction,Mughlai,4.3,Seekh Kebab,Starters,1,₹220.0,220,Delivered,DEBIT CARD,Paid,Aditya Menon,Bicycle,4.2,-15,3,5
+ORD10183,18-Aug-24,CUST2135,Manoj Singh,F,28,Bangalore,Indiranagar,R011,Curry House,North Indian,4.1,Butter Chicken,Main Course,3,260,780,delivered,upi,Paid,Manoj Nair,E-Bike,5.8,43,4,4
+ORD10350,26-Apr-24,CUST2257,Amit Kumar,F,43,Bangalore,Electronic City,R011,Curry House,North Indian,4.1,Butter Chicken,Main Course,3,260,780,Delivered,Debit Card,Paid,Kiran Desai,Scooter,10,43,5,4
+ORD10406,12/22/2024,CUST2302,Aarohi Patel,MALE,53,Delhi,Rohini,R011,Curry House,North Indian,4.1,Dal Makhani,Main Course,3,180,540,RETURNED,UPI,Refunded,Kiran Desai,E-Bike,0.9,19,,
+ORD10113,27-08-2024 02:31,CUST2011,Reyansh Reddy,FEMALE,,Bangalore,Whitefield,R015,Chaat Corner,Street Food,4,Bhel Puri,Street Food,3,Rs.70.0,210,Returned,,Refunded,Ishaan Joshi,Scooter,14,74,,
+ORD10309,28-06-2024,CUST2229,,male,43,pune,Kothrud,R009,The Bakers Oven,Bakery,4,Croissant,Bakery,5,90,450,Returned,UPI,Refunded,Pooja Gupta,E-Bike,6.5,39,,
+ORD10206,10-12-2024,CUST2121,Ishaan Singh,f,35,NA,Viman Nagar,R012,Noodle Story,Chinese,3.7,Chicken Manchurian,Main Course,5,210,₹1050.0,Cancelled,Debit Card,Refunded,Reyansh Sharma,Scooter,4,30,,
+ORD10096,11-Jan-24,CUST2070,Priya Pillai,FEMALE,54,bangalore,Jayanagar,R003,Dragon Wok,Chinese,4,Spring Rolls,Starters,4,Rs.140.0,560,Delivered,Debit Card,Paid,Vivaan Singh,Bicycle,8.3,47,4,3
+ORD10152,13-03-2024, CUST2110 ,Kiran Joshi,FEMALE,23,Pune,Viman Nagar,R006,South Spice,South Indian,4.5,Masala Dosa,Breakfast,2,90,₹180.0,Delivered,UPI,Paid,Aarav Reddy,Bicycle,8.1,,5,5
+ORD10184,07-04-2024,CUST2136,Manoj Sharma,female,40,chennai,OMR,R003,Dragon Wok,Chinese,4,Spring Rolls,Starters,2,140,280,Delivered,Wallet,Paid,Myra Pillai,E-Bike,1.3,15,3,5
+ORD10467,17-12-2024,CUST2344,Pooja Desai,female,57,Bangalore,Whitefield,R011,Curry House,North Indian,4.1,Dal Makhani,Main Course,1,Rs.180.0,180,DELIVERED,wallet,Paid,Manoj Nair,Bicycle,2.3,20,5,4
+ORD10305,04/13/2024,CUST2226,Diya Das,male,27,PUNE,Kothrud,R013,Sweet Tooth,Desserts,4.6,Ice Cream Sundae,Desserts,4,150,600,Delivered,,Paid,Sai Iyer,Bicycle,11.9,51,5,5
+ORD10030,17-08-2024,CUST2023,Suresh Singh,m,35,Delhi,Connaught Place,R001,Biryani Blues,Biryani,4.3,Mutton Biryani,Main Course,3,₹280.0,840,RETURNED,Cash on Delivery,Refunded,Kiran Desai,Bicycle,14.7,81,,
+ORD10390,03-Jul-24,CUST2288,Ananya Iyer,M,, Hyderabad ,Banjara Hills,R004,Punjabi Tadka,North Indian,4.4,Dal Makhani,Main Course,4,₹180.0,720,Delivered,CreditCard,Paid,Anika Kapoor,Scooter,11.7,69,5,
+ORD10358,08-11-2024 16:34,CUST2263,Vikram Gupta,Male,35,Bangalore,Indiranagar,R002,Pizza Palace,Italian,4.1,Margherita Pizza,Pizza,4,250,1000,Delivered,Credit Card,Paid,Krishna Chatterjee,Bike,10,50,4,5
+ORD10239,26-Nov-24,CUST2179,Meera Gupta,Male,40, Hyderabad ,Kukatpally,R015,Chaat Corner,Street Food,4,Vada Pav,Street Food,5,,250,CANCELLED,CREDIT CARD,Refunded,Reyansh Sharma,Scooter,3.6,26,,
+ORD10240,08-02-2024 20:29,CUST2141,Priya Sharma,Male,45,Bangalore,HSR Layout,R011,Curry House,North Indian,4.1,Dal Makhani,Main Course,1,180,Rs.180.0,Delivered,UPI,Paid,Kavya Mukherjee,Bicycle,11.1,57,4,4
+ORD10473,31-12-2024,CUST2349,Sunita Singh,Female,29,hyderabad,Gachibowli,R003,Dragon Wok,Chinese,4,Chicken Manchurian,Main Course,1,210,210,Delivered,Credit Card,Paid,Kavya Mukherjee,Scooter,14.1,65,4,4
+ORD10311,05-Feb-24,CUST2106,Manoj Pillai,f,52,CHENNAI,Velachery,R008,Taco Fiesta,Mexican,3.8,Chicken Tacos,Main Course,2,210,420,delivered,Wallet,Paid,Kiran Desai,Bike,4.4,35,4,3
+ORD10131,02-08-2024 21:14,CUST2095,Meera Patel,FEMALE,41,CHENNAI,Adyar,R008,Taco Fiesta,Mexican,3.8,Chicken Tacos,Main Course,4,Rs.210.0,840,Delivered,credit card,Paid,Ravi Rao,E-Bike,1.4,19,3,4
+ORD10480,02-07-2024 07:23,CUST2354,Meera Patel,Female,30,Pune,Kharadi,R003,Dragon Wok,Chinese,4,Spring Rolls,Starters,5,140,700,DELIVERED,UPI,Paid,Pooja Gupta,Scooter,11.9,60,5,
+ORD10117,09-03-2024 03:43,CUST2015,Myra Sharma,MALE,60,N/A,Banjara Hills,R003,Dragon Wok,Chinese,4,Spring Rolls,Starters,4,140,560,returned,debit card,Refunded,Nikhil Malhotra,Scooter,12,68,,
+ORD10277,01-08-2024,CUST2206,Riya Malhotra,Female,35,Delhi,Dwarka,R014,Healthy Bites,Salads,4.2,Caesar Salad,Salads,2,Rs.180.0,Rs.360.0,Cancelled,DEBIT CARD,Refunded,Kiran Desai,E-Bike,4.7,,,
+ORD10316,14-11-2024,CUST2231,Amit Iyer,,21,Bangalore,HSR Layout,R003,Dragon Wok,Chinese,,Veg Noodles,Noodles,3,₹160.0,480,Delivered,wallet,Paid,Kiran Desai,Scooter,14,59,4,5
+ORD10369,04/23/2024,CUST2271,Aadhya Mukherjee,m,23,BANGALORE,HSR Layout,R015,Chaat Corner,Street Food,4,Pani Puri,Street Food,3,60,180,Delivered,UPI,Paid,Sai Iyer,Bike,10.7,61,5,3
+ORD10047,20-03-2024 01:18,CUST2037,Vikram Iyer,m,38,mumbai,Powai,R002,Pizza Palace,italian,4.1,Pepperoni Pizza,Pizza,5,320,1600,Delivered,Wallet,Paid,Lakshmi Verma,Bike,3.5,27,5,3
+ORD10004,31-08-2024 16:13,CUST2003,Rahul Verma,m,32,Kolkata,Howrah,R012,Noodle Story,Chinese,3.7,Spring Rolls,Starters,4,140,560,Delivered,Cash on Delivery,Paid,Reyansh Sharma,Bicycle,8,34,3,4
+ORD10319,08-04-2024 19:20,CUST2233,Aarav Nair,m,19,Delhi,Saket,R012,Noodle Story,Chinese,3.7,Veg Noodles,Noodles,5,,800,Delivered,Cash on Delivery,Paid,Ravi Rao,Scooter,8.8,47,4,4
+ORD10236,18-09-2024 11:35,CUST2177,Vikram Das,m,20,Bangalore,Koramangala,R001,Biryani Blues,Biryani,4.3,Chicken Biryani,Main Course,3,220,660,Delivered,upi,Paid,Sai Iyer,E-Bike,6.3,39,3,5
+ORD10031,20-11-2024,CUST2024,Sai Chatterjee,Male,26,Kolkata,Ballygunge,R003,Dragon Wok,Chinese,4,Veg Noodles,Noodles,3,160,480,delivered,DEBIT CARD,Paid,Kiran Desai,Scooter,0,37,5,4
+ORD10155,05-12-2024 17:49,CUST2015,Myra Sharma,MALE,60,Hyderabad,Banjara Hills,R013,Sweet Tooth,Desserts,4.6,Brownie,Desserts,3,₹130.0,390,Delivered,upi,Paid,Vikram Das,Bicycle,14.9,68,-2,4
+ORD10421,08-01-2024 23:11,CUST2314,Saanvi Verma,Male,59,Mumbai,Powai,R013,  Sweet Tooth  ,Desserts,4.6,Gulab Jamun,Desserts,1,90,135.3,Delivered,WALLET,Paid,Vivaan Singh,E-Bike,4.4,30,5,3
+ORD10292,18-12-2024 11:57,CUST2217,Anika Kumar,m,,Chennai,Adyar,R010,Kebab Junction,Mughlai,4.3,Chicken Kebab,Starters,1,240,240,Returned,DEBIT CARD,Refunded,Myra Pillai,E-Bike,12.5,71,,
+ORD10052,26-09-2024 00:28,CUST2029,Sai Singh,MALE,44,Delhi,Saket,R009,The Bakers Oven,Bakery,4,Croissant,Bakery,1,90,90,Returned,CREDIT CARD,Refunded,Aarohi Patel,Bike,7.5,49,,
+ORD10037,14-09-2024 20:33,CUST2029,Sai Singh,male,44, Delhi ,Karol Bagh,R013,Sweet Tooth,Desserts,4.6,Gulab Jamun,Desserts,0,90,360,Returned,Cash on Delivery,Refunded,Nikhil Malhotra,Bike,5,,,
+ORD10098,02-11-2024 22:48,CUST2072,Rahul Menon,M,22,Chennai,OMR,R005,Burger Point,Fast Food,3.9,French Fries,Sides,2,90,180,Returned,credit card,Refunded,Meera Bose,Bicycle,2.5,16,,
+ORD10283,27-09-2024,CUST2143,Sai Menon,m,52,Delhi,Rohini,R013,  Sweet Tooth  ,Desserts,4.6,Ice Cream Sundae,Desserts,2,Rs.150.0,300,Delivered,cash on delivery,Paid,Aarohi Patel,Scooter,13.6,70,4,5
+ORD10014,01-02-2024 20:08,CUST2009,,f,,pune,Kothrud,R014,Healthy Bites,Salads,4.2,Caesar Salad,Salads,1,Rs.180.0,180,delivered,UPI,Paid,Aditya Menon,Bike,14.2,76,3,-1
+ORD10164,16-05-2024,CUST2120,Sanjay Menon,MALE,31,Pune,Viman Nagar,R015,Chaat Corner,Street Food,4,Bhel Puri,Street Food,5,,350,Returned,cash on delivery,Refunded,Vivaan Singh,Bike,2.8,22,,
+ORD10059,27-05-2024 23:24,CUST2005,Sai Bose,MALE,0,Kolkata,Park Street,R013,Sweet Tooth,Desserts,4.6,Gulab Jamun,Desserts,4,90,360,Delivered,DEBIT CARD,Paid,Aditya Menon,Bike,4.6,25,4,5
+ORD10064,08-03-2024,CUST2048,Kavya Reddy,MALE,26,Chennai,Velachery,R013,Sweet Tooth,Desserts,4.6,Gulab Jamun,Desserts,1,90,90,Returned,UPI,Refunded,Nikhil Malhotra,Scooter,12,,,
+ORD10234,25-04-2024,CUST2175,Aditya Das,M,42,KOLKATA,Salt Lake,R007,Sushi Yama,Japanese,4.2,Chicken Ramen,Main Course,5,₹280.0,₹1400.0,Returned,debit card,Refunded,Meera Bose,Scooter,8.1,46,,
+ORD10463,30-08-2024,CUST2341,Rahul Sharma,female,43,HYDERABAD,,R002,Pizza Palace,Italian,4.1,Pasta Alfredo,Pasta,1,240,240,Returned,Credit Card,Refunded,Vivaan Singh,Bicycle,3.6,20,,
+ORD10380,24-07-2024 16:20,CUST2281,NA,MALE,55,Bengaluru,Indiranagar,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,2,₹70.0,140,Delivered,Credit Card,Paid,Sai Iyer,Scooter,6.8,44,4,4
+ORD10486,22-08-2024 21:35,CUST2222,REYANSH SHARMA,F,36,Kolkata,Ballygunge,R003,Dragon Wok,Chinese,4,Spring Rolls,Starters,5,140,700,Delivered,WALLET,Paid,Meera Bose,E-Bike,4.7,22,3,5
+ORD10266,27-11-2024 18:53,CUST2196,Priya Desai,Female,34, Hyderabad ,Secunderabad,R005,Burger Point,Fast Food,3.9,Cheese Burger,Burger,3,130,390,Delivered,WALLET,Paid,Aarav Reddy,Bicycle,7.9,,4,4
+ORD10495,09-09-2024,CUST2183,Deepak Mukherjee,female,20,Bangalore,Whitefield,R003,Dragon Wok,Chinese,4,Veg Noodles,Noodles,4,160,640,returned,DEBIT CARD,Refunded,Aditya Menon,Bicycle,7.3,39,,
+ORD10079,21-May-24,CUST2060,Vihaan Mukherjee,Male,24,Kolkata,Howrah, R012 ,Noodle Story,Chinese,3.7,Veg Noodles,Noodles,5,160,800,Returned,CREDIT CARD,Refunded,Reyansh Sharma,E-Bike,14.9,78,,
+ORD10046,11-11-2024,CUST2036,Nikhil Bose,Female,23,DELHI,Rohini,R007,Sushi Yama,Japanese,4.2,Chicken Ramen,Main Course,3,Rs.280.0,840,Returned,UPI,Refunded,Ravi Rao,E-Bike,10.7,58,,
+ORD10158,19-07-2024 05:51,CUST2115,Aarohi Reddy,MALE,38,Kolkata,Park Street,R013,Sweet Tooth,Desserts,4.6,Brownie,Desserts,4,130,520,Delivered,Credit Card,Paid,Lakshmi Verma,E-Bike,7.2,48,3,5
+ORD10025,26-11-2024 00:07,CUST2018,Riya Kapoor,,60,Pune,Kharadi,R006,South Spice,South Indian,4.5,Masala Dosa,Breakfast,2,90,180,Returned,DEBIT CARD,Refunded,Ishaan Joshi,Bicycle,1.1,14,,
+ORD10321,12-08-2024 05:44,CUST2040,Amit Malhotra,m,42,Mumbai,Dadar,R015,Chaat Corner,Street Food,4,Vada Pav,Street Food,3,50,₹150.0,DELIVERED,Cash on Delivery,Paid,Meera Bose,Scooter,8.8,53,,4
+ORD10257,19-03-2024 08:02,CUST2190,Anika Singh,male,41,Bangalore,Jayanagar,R001,Biryani Blues,Biryani,4.3,Veg Biryani,Main Course,4,180,720,Delivered,Wallet,Paid,Suresh Kumar,Bike,14.2,84,5,3
+ORD10429,24-04-2024,CUST2320,Sai Kumar,Male,47,Hyderabad,Kukatpally,R007,Sushi Yama,Japanese,4.2,California Roll,Sushi,1,320,320,Cancelled,credit card,Failed,Anika Kapoor,E-Bike,1.1,500,,
+ORD10347,07-Sep-24,CUST2254,Anika Rao,Female,22,mumbai,Andheri,R007,Sushi Yama,Japanese,4.2,Chicken Ramen,Main Course,3,280,840,Delivered,DEBIT CARD,Paid,Myra Pillai,E-Bike,1.8,16,,4
+ORD10428,31-08-2024 03:17,CUST2319,Meera Iyer,Female,26,Hyderabad,Gachibowli,R004,Punjabi Tadka,North Indian,4.4,Butter Chicken,Main Course,1,260,260,returned,Credit Card,Refunded,Ishaan Joshi,E-Bike,10,57,,
+ORD10290,20-04-2024,CUST2215,SUNITA DAS,F,41,Delhi,Connaught Place,R014,Healthy Bites,Salads,4.2,Quinoa Salad,Salads,3,210,630,Delivered,credit card,Paid,Aditya Menon,Scooter,5.9,40,3,3
+ORD10356,22-Jul-24,CUST2261,Ananya Sharma,FEMALE,49,Bangalore,Koramangala,R001,Biryani Blues,Biryani,4.3,Chicken Biryani,Main Course,1,220,Rs.220.0,Returned,Wallet,Refunded,Lakshmi Verma,E-Bike,10.6,52,,
+ORD10323,10-01-2024 16:24,CUST2236,Divya Iyer,f,49,,Banjara Hills,R008,Taco Fiesta,Mexican,3.8,Nachos,Starters,2,180,₹360.0,Delivered,Debit Card,Paid,Kavya Mukherjee,Scooter,11.9,74,5,6
+ORD10123,02-01-2024 08:22,CUST2091,Divya Menon,M,42,Delhi,Connaught Place,R007,Sushi Yama,Japanese,4.2,California Roll,Sushi,5,320,1600,Cancelled,DebitCard,Refunded,Myra Pillai,E-Bike,8.3,48,,
+ORD10067,03-06-2024 20:26,CUST2050,Vikram Kapoor,Female,56,Delhi,Saket,R013,Sweet Tooth,Desserts,4.6,Brownie,Desserts,1,130,130,Returned,WALLET,Refunded,Lakshmi Verma,E-Bike,13.4,71,,
+ORD10195,19-12-2024 17:18,CUST2144,Krishna Mukherjee,MALE,5,Hyderabad,Madhapur,R013,Sweet Tooth,Desserts,4.6,Gulab Jamun,Desserts,2,90,180,Delivered,Cash on Delivery,Paid,,Bicycle,15,84,4,4
+ORD10178,17-10-2024,CUST2084,Aarohi Verma,Male,60, Chennai ,Anna Nagar,R002,Pizza Palace,Italian,4.1,Pasta Alfredo,Pasta,2,240,Rs.480.0,Delivered,Cash on Delivery,Paid,Pooja Gupta,Scooter,12.4,62,5,5
+ORD10207,21-01-2024,CUST2154,Manoj Kumar,Female,47,Kolkata,Salt Lake,R008,Taco Fiesta,Mexican,3.8,Chicken Tacos,Main Course,5,210,1050,Delivered,wallet,Paid,Anika Kapoor,Bicycle,7.9,50,4,5
+ORD10128,04-04-2024 07:36, CUST2069 ,Gita Kumar,M,38,Bangalore,HSR Layout,R004,Punjabi Tadka,North Indian,,Butter Chicken,Main Course,3,₹260.0,780,Returned,Credit Card,Refunded,Krishna Chatterjee,E-Bike,,-15,,
+ORD10352,12/25/2024,CUST2259,Vivaan Verma,female,39,Bangalore,Whitefield,R013,Sweet Tooth,Desserts,4.6,Brownie,Desserts,1,,130,Delivered,UPI,Paid,Meera Bose,E-Bike,14.1,84,5,4
+ORD10310,31-07-2024 04:53,CUST2076,Vivaan Iyer,male,20,Pune,Kharadi,R015,Chaat Corner,Street Food,4,Pani Puri,Street Food,5,₹60.0,300,Cancelled,Cash on Delivery,Failed,Vivaan Singh,Bike,3.4,29,,
+ORD10342,31-03-2024,CUST2251,,unknown,40,BANGALORE,Electronic City,R005,Burger Point,Fast Food,3.9,Cheese Burger,Burger,1,130,130,Cancelled,Cash on Delivery,Failed,Anika Kapoor,Scooter,7.6,55,,
+ORD10001,31-01-2024,CUST2001,Ravi Patel,f,20,Pune,Baner,R009,The Bakers Oven,Bakery,4,Chocolate Cake,Desserts,4,₹350.0,1400,Delivered,WALLET,Paid,Suresh Kumar,Scooter,9,49,4,4
+ORD10227,02-Oct-24,CUST2169,Aadhya Gupta,m,57,Pune,Hinjewadi,R011,Curry House,North Indian,4.1,Paneer Tikka,Starters,2,220,440,Returned,Credit Card,Refunded,Kavya Mukherjee,Scooter,8.8,55,,
+ORD10462,22-12-2024,CUST2166,Aarav Das,Male,40,kolkata,Ballygunge,R014,Healthy Bites,Salads,4.2,Fruit Bowl,Salads,3,Rs.120.0,360,Delivered,Wallet,Paid,Anika Kapoor,Scooter,8.1,41,3,4
+ORD10454,29-Aug-24,CUST2337,Sai Kapoor,female,31,Kolkata,Park Street,R006,South Spice,South Indian,4.5,Uttapam,Breakfast,2,100,200,Cancelled,Wallet,Failed,Vikram Das,E-Bike,1.4,21,,
+ORD10250,13-09-2024 04:22,CUST2170,,female,51,BANGALORE,Whitefield,R002,Pizza Palace,Italian,4.1,Margherita Pizza,Pizza,4,250,Rs.1000.0,DELIVERED,CASH ON DELIVERY,Paid,Myra Pillai,Bicycle,12.6,72,4,5
+ORD10109,27-Feb-24,CUST2054,Vihaan Reddy,MALE,28,Kolkata,Howrah,R013,Sweet Tooth,Desserts,0,Brownie,Desserts,1,130,130,Delivered,,Paid,Manoj Nair,Bicycle,11,58,5,5
+ORD10194,13-07-2024 23:55,CUST2143,Sai Menon,MALE,52,DELHI,Karol Bagh,R004,Punjabi Tadka,North Indian,4.4,Dal Makhani,Main Course,1,Rs.180.0,180,delivered,wallet,Paid,Vikram Das,E-Bike,8.9,43,5,3
+ORD10006,22-11-2024,CUST2003,Rahul Verma,Male,32,Kolkata,,R002,  Pizza Palace  ,Italian,4.1,Pepperoni Pizza,Pizza,4,₹320.0,1280,Cancelled,Cash on Delivery,Refunded,Sai Iyer,Bicycle,8,40,,
+ORD10261,21-04-2024 13:43,CUST2194,Amit Mukherjee,m,47,Chennai,T Nagar,R008,Taco Fiesta,Mexican,,Chicken Tacos,Main Course,3,210,630,Delivered,CASH ON DELIVERY,Paid,Reyansh Sharma,Scooter,6.7,38,4,4
+ORD10455,28-01-2024 03:50,CUST2086,Karthik Bose,Male,29,PUNE,Kothrud,R001,Biryani Blues,Biryani,4.3,Mutton Biryani,Main Course,3,280,840,Delivered,Debit Card,Paid,Aarav Reddy,Bicycle,9.1,46,5,5
+ORD10314,21-08-2024 01:21,CUST2118,Myra Chatterjee,Female,59,bangalore,HSR Layout,R014,Healthy Bites,Salads,4.2,Fruit Bowl,Salads,5,120,600,delivered,Wallet,Paid,Reyansh Sharma,Bicycle,9.2,50,3,5
+ORD10414,07-01-2024,CUST2166,Aarav Das,Male,40,Kolkata,Ballygunge,R011,Curry House,North Indian,4.1,Butter Chicken,Main Course,4,260,Rs.1040.0,Returned,cash on delivery,Refunded,Vivaan Singh,Bike,8.7,45,,
+ORD10448,02-Dec-24,CUST2332,Sanjay Mukherjee,Female,27,kolkata,Howrah,R002,Pizza Palace,Italian,4.1,Pasta Alfredo,Pasta,5,240,1200,delivered,cash on delivery,Paid,Aditya Menon,Scooter,8.5,59,4,3
+ORD10060,10-07-2024 07:35,CUST2045,Reyansh Singh,F,48,Bangalore,Jayanagar,R015,Chaat Corner,Street Food,4,Vada Pav,Street Food,3,50,150,Delivered,CREDIT CARD,Paid,Kiran Desai,Scooter,10,42,3,
+ORD10048,02/15/2024,CUST2009,Riya Chatterjee,female,53,Pune,Hinjewadi,R008,Taco Fiesta,Mexican,3.8,Burrito Bowl,Main Course,4,240,960,delivered,upi,Paid,Myra Pillai,Scooter,8.6,45,3,5
+ORD10303,23-06-2024 10:33,CUST2224,Sunita Patel,male,32,Hyderabad,Banjara Hills,R015,Chaat Corner,Street Food,4,Bhel Puri,Street Food,2,70,140,Delivered,cash on delivery,Paid,Lakshmi Verma,Bicycle,8.9,46,5,4
+ORD10028,06-10-2024,CUST2021,Nikhil Singh,f,35, Delhi ,Saket,R012,Noodle Story,Chinese,,Chicken Manchurian,Main Course,2,210,420,Delivered,DebitCard,Paid,Vikram Das,Bike,2.8,23,4,3
+ORD10121,23-01-2024 10:08,CUST2089,Anil Malhotra,M,27,Hyderabad,Banjara Hills,R014,Healthy Bites,Salads,4.2,Quinoa Salad,Salads,4,210,840,delivered,CREDIT CARD,Paid,Vivaan Singh,E-Bike,12.3,64,5,5
+ORD10287,24-07-2024,CUST2213,Vihaan Menon,f,32,Chennai,T Nagar,R001,  Biryani Blues  ,Biryani,4.3,Chicken Biryani,Main Course,4,220,880,DELIVERED,Cash on Delivery,Paid,Aarav Reddy,E-Bike,12.5,69,5,4
+ORD10247,28-Feb-24,CUST2184,Sneha Singh,female,51, Delhi ,Rohini,R014,Healthy Bites,Salads,4.2,Fruit Bowl,Salads,4,120,480,Delivered,-,Paid,Meera Bose,Bicycle,7,37,4,4
+ORD10376,09-Oct-24,CUST2277,Priya Pillai,f,41, Bangalore ,Whitefield,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,3,₹70.0,Rs.210.0,DELIVERED,wallet,Paid,Ishaan Joshi,E-Bike,11.3,58,4,5
+ORD10167,09-01-2024,CUST2122,Priya Malhotra,female,29,kolkata,Ballygunge,R013,Sweet Tooth,Desserts,4.6,Gulab Jamun,Desserts,1,90,₹90.0,Delivered,UPI,Paid,Sai Iyer,Bicycle,1.4,17,5,4
+ORD10313,24-Oct-24,CUST2230,Ananya Reddy,M,29,Kolkata,Salt Lake,R007,Sushi Yama,Japanese,4.2,Chicken Ramen,Main Course,3,280,840,Returned,CASH ON DELIVERY,Refunded,Myra Pillai,Bike,13.6,78,,
+ORD10378,18-02-2024 05:24,CUST2279,Aadhya Rao,MALE,42,Mumbai,Malad,R008,Taco Fiesta,Mexican,3.8,Chicken Tacos,Main Course,3,Rs.210.0,1049.81,delivered,DEBIT CARD,Paid,Vikram Das,E-Bike,4,26,4,5
+ORD10210,15-11-2024 22:46,CUST2156,Rahul Kapoor,m,30,Bangalore,Electronic City,R001,Biryani Blues,Biryani,4.3,Veg Biryani,Main Course,2,Rs.180.0,360,Cancelled,debit card,Failed,Aarohi Patel,Bike,-3.5,35,,
+ORD10359,29-10-2024 12:34,CUST2264,Aditya Nair,Female,21,Chennai,Anna Nagar,R003,Dragon Wok,Chinese,4,Veg Noodles,Noodles,4,160,640,Delivered,upi,Paid,Reyansh Sharma,E-Bike,9.2,,4,4
+ORD10223,11-Feb-24,CUST2166,Aarav Das,male,40,kolkata,Howrah,R009,The Bakers Oven,Bakery,4,Cupcake,Desserts,3,80,240,Returned,UPI,Refunded,Myra Pillai,E-Bike,2.8,26,,
+ORD10300,14-09-2024 11:26,CUST2221,Vivaan Pillai,M,55,Pune,Kharadi,R001,Biryani Blues,Biryani,4.3,Mutton Biryani,Main Course,2,Rs.280.0,560,Delivered,Debit Card,Paid,Suresh Kumar,Scooter,1.6,12,5,4
+ORD10214,31-Jul-24,CUST2158,Reyansh Kapoor,Female,57,Bengaluru,Whitefield,R002,  Pizza Palace  ,Italian,4.1,Margherita Pizza,Pizza,4,250,₹1000.0,Cancelled,Wallet,Refunded,Sai Iyer,Bicycle,5.9,32,,
+ORD10396,31-05-2024 13:52,CUST2294,Meera Nair,male,39,Hyderabad,Gachibowli,R009,The Bakers Oven,Bakery,4,Croissant,Bakery,1,90,₹90.0,Delivered,cash on delivery,Paid,Sai Iyer,Bike,10.7,64,5,5
+ORD10360,24-03-2024 22:48,CUST2117,Amit Malhotra,FEMALE,54,HYDERABAD,Gachibowli,R004,  Punjabi Tadka  ,North Indian,4.4,Dal Makhani,Main Course,4,180,720,Cancelled,cash on delivery,Refunded,Vivaan Singh,E-Bike,9.1,42,,
+ORD10458,10/21/2024,CUST2339,Gita Sharma,male,60,delhi,Saket,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,5,70,,Delivered,Cash on Delivery,Paid,Nikhil Malhotra,Bike,7.4,49,4,3
+ORD10043,18-Dec-24,CUST2034,RIYA VERMA,F,5,mumbai,Powai,R012,Noodle Story,chinese,3.7,Chicken Manchurian,Main Course,1,Rs.210.0,210,Returned,CreditCard,Refunded,Manoj Nair,Bicycle,6.8,42,,
+ORD10400,23-Nov-24,CUST2297,Nikhil Kapoor,Male,29,Chennai,Adyar,R004,Punjabi Tadka,North Indian,4.4,Dal Makhani,Main Course,4,180,720,Delivered,Wallet,Paid,Manoj Nair,Bike,8.2,41,4,4
+ORD10459,23-Aug-24,CUST2184,Sneha Singh,Female,51,Delhi,Dwarka,R002,Pizza Palace,Italian,4.1,Pasta Alfredo,Pasta,3,240,720,Returned,Credit Card,Refunded,Anika Kapoor,Scooter,1.3,17,,
+ORD10435,11-02-2024 02:59,CUST2133,Aditya Desai,Male,57,Chennai,Velachery,R013,Sweet Tooth,Desserts,4.6,Ice Cream Sundae,Desserts,1,150,150,Delivered,Debit Card,Paid,Meera Bose,Bike,10.8,67,5,3
+ORD10077,16-05-2024 16:20,CUST2058,Diya Bose,MALE,47,Kolkata,Ballygunge,R011,Curry House,North Indian,11,Dal Makhani,Main Course,5,180,Rs.900.0,Delivered,debit card,Paid,Kiran Desai,Bike,7.5,48,5,3
+ORD10401,0000-00-00,CUST2298,Arjun Gupta,FEMALE,44,mumbai,Powai,R011,Curry House,north indian,4.1,Butter Chicken,Main Course,3,260,780,returned,WALLET,Refunded,Aditya Menon,Bicycle,2.4,16,,
+ORD10460,26-01-2024 09:12,CUST2101,Rahul Sharma,f,58,Mumbai,Dadar,R002,Pizza Palace,Italian,,Pepperoni Pizza,Pizza,5,320,1600,Delivered,,Paid,Vikram Das,Bicycle,,59,,4
+ORD10074,11-08-2024 14:27,CUST2055,Suresh Chatterjee,m,29,Hyderabad,Kukatpally,R009,The Bakers Oven,Bakery,4,Cupcake,Desserts,2,80,160,delivered,-,Paid,Vivaan Singh,E-Bike,13,51,3,4
+ORD10413,,CUST2308,Divya Rao,male,44, Kolkata ,Park Street,R001,Biryani Blues,Biryani,4.3,Mutton Biryani,Main Course,3,₹280.0,840,Cancelled,Wallet,Failed,Reyansh Sharma,Scooter,9.1,49,,
+ORD10392,01-07-2024,CUST2290,Rohan Kumar,Female,57,CHENNAI,T Nagar,R013,Sweet Tooth,Desserts,4.6,Gulab Jamun,Desserts,5,90,₹450.0,delivered,Cash on Delivery,Paid,Pooja Gupta,E-Bike,7.8,39,5,5
+ORD10437,19-10-2024 15:11,CUST2324,Divya Sharma,female,33,Kolkata,Ballygunge, R006 ,South Spice,South Indian,4.5,Idli Sambar,Breakfast,5,70,,Cancelled,UPI,Failed,Aarav Reddy,E-Bike,5.9,35,0,
+ORD10367,19-10-2024 12:05,CUST2269,Kiran Verma,female,41,Mumbai,Bandra,R011,Curry House,North Indian,-1,Dal Makhani,Main Course,1,180,180,DELIVERED,Credit Card,Paid,Ravi Rao,Bicycle,8.5,53,5,4
+ORD10153,07-06-2024 21:24,CUST2111,Sunita Rao,,49,MUMBAI,Bandra,R003,Dragon Wok,Chineese,4,Chicken Manchurian,Main Course,4,210,840,delivered,,Paid,Nikhil Malhotra,E-Bike,2.7,28,5,5
+ORD10033,31-12-2024 15:08,CUST2025,,M,47,PUNE,Hinjewadi, R013 ,Sweet Tooth,Desserts,4.6,Ice Cream Sundae,Desserts,2,150,300,Delivered,Wallet,Paid,Myra Pillai,Scooter,2.3,16,5,5
+ORD10016,16-09-2024 08:56,CUST2004,Rohan Menon,m,28,,,R005,Burger Point,Fast Food,3.9,Cheese Burger,Burger,3,130,390,Delivered,Credit Card,Paid,Pooja Gupta,Bicycle,7,40,5,3
+ORD10108,18-Sep-24,CUST2081,Ravi Kapoor,MALE,26,mumbai,Malad,R006,South Spice,South Indian,4.5,Masala Dosa,Breakfast,4,90,511.98,Delivered,debit card,Paid,Meera Bose,E-Bike,10.9,57,4,4
+ORD10498,10/14/2024,CUST2368,,Male,21,Hyderabad,Banjara Hills,R008,Taco Fiesta,Mexican,3.8,Nachos,Starters,2,180,360,Cancelled,Cash on Delivery,Refunded,,Bicycle,13.9,79,,
+ORD10148,02-07-2024,CUST2004,Rohan Menon,m,28,Chennai,Adyar,R002,Pizza Palace,Italian,4.1,Pepperoni Pizza,Pizza,4,₹320.0,1280,Delivered,UPI,Paid,Aarav Reddy,Scooter,5.7,39,4,5
+ORD10255,22-06-2024 10:33,CUST2188,Divya Malhotra,MALE,53,delhi,Dwarka,R006,South Spice,South Indian,4.5,Uttapam,Breakfast,5,100,Rs.500.0,delivered,Debit Card,Paid,Manoj Nair,Scooter,11.8,57,3,4
+ORD10438,24-01-2024 20:55,CUST2325,Ishaan Chatterjee,M,44, Delhi ,Connaught Place,R014,Healthy Bites,Salads,4.2,Quinoa Salad,Salads,3,Rs.210.0,,DELIVERED,CASH ON DELIVERY,Paid,Nikhil Malhotra,Bike,2,23,4,5
+ORD10036,04-01-2024 22:36,CUST2028,Vikram Joshi,MALE,57,PUNE,,R006,  South Spice  ,South Indian,5.8,Masala Dosa,Breakfast,4,90,360,Delivered,Credit Card,Paid,Ishaan Joshi,Scooter,12.1,64,4,5
+ORD10226,13-Oct-24,CUST2168,Divya Desai,f,33,Mumbai,Dadar,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,4,70,280,Cancelled,CREDIT CARD,Failed,Suresh Kumar,Scooter,12.8,66,,
+ORD10173,11-10-2024,CUST2128,Vikram Kumar,M,,,Andheri,R009,The Bakers Oven,Bakery,4,Croissant,Bakery,1,90,90,DELIVERED,Credit Card,Paid,Manoj Nair,Scooter,11.3,53,5,
+ORD10385,04/17/2024,CUST2284,Arjun Kumar,male,60,Bangalore,Koramangala,R013,Sweet Tooth,Desserts,4.6,Gulab Jamun,Desserts,5,Rs.90.0,450,Cancelled,Wallet,Refunded,Myra Pillai,Scooter,1.2,17,,
+ORD10018,02/27/2024,CUST2012,Aditya Sharma,f,,KOLKATA,Park Street,R011,Curry House,North Indian,4.1,Paneer Tikka,Starters,2,220,440,Returned,Cash on Delivery,Refunded,Vikram Das,Bike,2.4,24,,
+ORD10344,18-11-2024 23:54,CUST2026,Manoj Singh,m,24,pune,Hinjewadi,R011,Curry House,North Indian,4.1,Dal Makhani,Main Course,4,180,720,Delivered,CREDIT CARD,Paid,Meera Bose,Scooter,10.4,65,3,3
+ORD10157,12-02-2024,CUST2114,Gita Patel,Female,56, Chennai ,Anna Nagar,R006,South Spice,South Indian,4.5,Uttapam,Breakfast,3,₹100.0,300,delivered,Wallet,Paid,Meera Bose,Bike,2.7,22,3,4
+ORD10494,31-03-2024 06:12,CUST2365,Myra Nair,Male,, Hyderabad ,Madhapur,R001,Biryani Blues,Biryani,4.3,Mutton Biryani,Main Course,5,Rs.280.0,1400,Delivered,Debit Card,Paid,Vikram Das,Bicycle,9.7,61,5,3
+ORD10391,28-05-2024 14:23,CUST2289,Suresh Kapoor,female,35,Hyderabad,Kukatpally,R002,Pizza Palace,Italian,4.1,Margherita Pizza,Pizza,3,250,750,DELIVERED,CASH ON DELIVERY,Paid,Aarohi Patel,Bike,2.2,13,3,4
+ORD10482,06-05-2024 15:16,CUST2356,Priya Reddy,M,54,KOLKATA,Park Street,R005,Burger Point,Fast Food,3.9,Veg Burger,Burger,1,₹110.0,Rs.110.0,Delivered,NA,Paid,Reyansh Sharma,E-Bike,6.8,46,5,4
+ORD10490,17-10-2024 18:09,CUST2356,Priya Reddy,m,54,KOLKATA,Ballygunge,R007,Sushi Yama,Japanese,4.2,Chicken Ramen,Main Course,4,Rs.280.0,1120,cancelled,Cash on Delivery,Refunded,Nikhil Malhotra,Scooter,2.4,21,,
+ORD10431,03-03-2024 15:44,CUST2010,Anika Gupta,Female,60,Pune,Baner,R010,Kebab Junction,Mughlai,4.3,Seekh Kebab,Starters,5,220,1100,delivered,DebitCard,Paid,Anika Kapoor,Bike,7.8,50,5,3
+ORD10372,04-Mar-24,CUST2274,Ananya Singh,m,25,bangalore,Whitefield,R010,Kebab Junction,Mughlai,4.3,Chicken Kebab,Starters,4,240,960,Delivered,Debit Card,Paid,Ishaan Joshi,Bike,10.3,62,5,5
+ORD10209,10-10-2024,CUST2044,Myra Desai,,40,Hyderabad,Secunderabad,R013,Sweet Tooth,Desserts,4.6,Gulab Jamun,Desserts,4,90,360,DELIVERED,Credit Card,Paid,Lakshmi Verma,E-Bike,6.9,35,5,4
+ORD10065,26-06-2024 21:15,CUST2009,Riya Chatterjee,FEMALE,,Pune,Baner,R009,The Bakers Oven,Bakery,4,Chocolate Cake,Desserts,1,350,350,Delivered,Cash on Delivery,Paid,Meera Bose,Bike,7.2,39,5,4
+ORD10011,08-02-2024 00:34,CUST2008,Vihaan Pillai,male,39, Kolkata ,Salt Lake,R004,Punjabi Tadka,North Indian,4.4,Butter Chicken,Main Course,2,260,520,delivered,CASH ON DELIVERY,Paid,Lakshmi Verma,Bicycle,4.8,,5,
+ORD10443,01-02-2024 19:48,CUST2328,Neha Kumar,m,36,Pune,Kharadi,R011,Curry House,north indian,4.1,Butter Chicken,Main Course,0,,Rs.1040.0,Delivered,Credit Card,Paid,Ravi Rao,Bicycle,12.5,58,5,5
+ORD10112,17-01-2024 08:05,CUST2027,Priya Mukherjee,F,27,Delhi,Connaught Place,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,3,70,210,Delivered,Debit Card,Paid,Kavya Mukherjee,E-Bike,13.5,66,4,4
+ORD10474,27-08-2024 05:47,CUST2350,Arjun Nair,f,27,hyderabad,Madhapur,R004,Punjabi Tadka,North Indian,4.4,Dal Makhani,Main Course,4,₹180.0,720,Returned,DEBIT CARD,Refunded,Suresh Kumar,E-Bike,14.7,64,,
+ORD10457,01-02-2024 12:21,CUST2069,Gita Kumar,Male,38,Bangalore,Electronic City,R015,Chaat Corner,Street Food,4,Pani Puri,Street Food,5,₹60.0,300,Delivered,upi,Paid,Myra Pillai,E-Bike,8.7,52,5,5
+ORD10398,14-06-2024 20:54,CUST2296,Riya Patel,MALE,21,Mumbai,Malad,R007,Sushi Yama,Japanese,4.2,California Roll,Sushi,5,320,₹1600.0,Returned,UPI,Refunded,Manoj Nair,Scooter,4.7,32,,
+ORD10094,17-06-2024,CUST2069,Gita Kumar,m,38,BANGALORE,Koramangala,R006,South Spice,South Indian,4.5,Uttapam,Breakfast,3,100,Rs.300.0,Delivered,Cash on Delivery,Paid,Myra Pillai,E-Bike,5.8,34,4,
+ORD10483,09-05-2024,CUST2357,Ishaan Reddy,male,150,chennai,OMR,R015,Chaat Corner,Street Food,4,Vada Pav,Street Food,5,50,250,Delivered,cash on delivery,Paid,Aditya Menon,Bike,,38,5,5
+ORD10294,11-08-2024 09:45,CUST2218,,Male,21,Mumbai,Malad,R001,Biryani Blues,Biryani,4.3,Mutton Biryani,Main Course,5,280,₹1400.0,Delivered,Credit Card,Paid,Meera Bose,Bicycle,3,29,5,5
+ORD10262,13-10-2024,CUST2173,Sneha Verma,Male,45,Mumbai,Powai,R002,Pizza Palace,Italian,0,Pasta Alfredo,Pasta,2,240,480,Delivered,DEBIT CARD,Paid,Ishaan Joshi,Scooter,3.4,31,4,5
+ORD10101,11-05-2024,CUST2075,Sai Patel,F,30,Pune,Kharadi,R005,Burger Point,Fast Food,3.9,Cheese Burger,Burger,3,130,390,Delivered,Wallet,Paid,Meera Bose,Bicycle,9.2,49,5,5
+ORD10168,30-04-2024 10:59,CUST2123,Pooja Pillai,f,23,Pune,Kharadi,R009,The Bakers Oven,Bakery,4,Cupcake,Desserts,2,80,160,Delivered,upi,Paid,Vivaan Singh,Bicycle,14.6,63,5,3
+ORD10066,05/27/2024,CUST2049,Vihaan Bose,Male,43,Delhi,Saket,R008,  Taco Fiesta  ,Mexican,3.8,Burrito Bowl,Main Course,4,240,960,Delivered,UPI,Paid,Suresh Kumar,Bicycle,1.7,18,5,4
+ORD10315,09/16/2024,CUST2226,Diya Das,male,27, Pune ,Kharadi,R005,Burger Point,Fast Food,3.9,Veg Burger,Burger,5,110,₹550.0,Cancelled,UPI,Refunded,Aarohi Patel,Bike,10.1,49,,
+ORD10242,17-03-2024 06:52,CUST2180,Pooja Patel,MALE,41,Hyderabad,Banjara Hills,R015,Chaat Corner,Street Food,4,Bhel Puri,Street Food,4,70,280,Delivered,DebitCard,Paid,Anika Kapoor,Bike,,28,4,5
+ORD10361,11-06-2024 10:07,CUST2265,Diya Pillai,female,41,HYDERABAD,Kukatpally,R012,  Noodle Story  ,Chinese,3.7,Veg Noodles,Noodles,3,₹160.0,480,Delivered,credit card,Paid,Aarohi Patel,Bike,10.6,44,,5
+ORD10419,21-09-2024 14:17,CUST2300,Suresh Iyer,FEMALE,33,chennai,Anna Nagar,R010,Kebab Junction,Mughlai,4.3,Chicken Kebab,Starters,5,240,1200,Delivered,Credit Card,Paid,Vivaan Singh,Bicycle,11.7,70,,4
+ORD10007,12-06-2024,CUST2004,Rohan Menon,M,28,Chennai,OMR,R015,Chaat Corner,Street Food,4,Pani Puri,Street Food,5,60,300,delivered,CASH ON DELIVERY,Paid,Kavya Mukherjee,Scooter,13.3,76,3,4
+ORD10150,09-02-2024 12:23,CUST2052,unknown,FEMALE,40, Kolkata ,Park Street,R003,Dragon Wok,Chinese,4,Spring Rolls,Starters,4,140,₹560.0,delivered,UPI,Paid,Kiran Desai,E-Bike,6.3,37,3,5
+ORD10488,16-12-2024, CUST2361 ,Vikram Pillai,FEMALE,60,Hyderabad,Secunderabad,R002,Pizza Palace,Italian,4.1,Pepperoni Pizza,Pizza,1,₹320.0,320,CANCELLED,CreditCard,Failed,Vikram Das,Scooter,10.3,49,,
+ORD10402,30-10-2024 18:56,CUST2299,Sunita Chatterjee,FEMALE,45,Pune,Kothrud,R004,Punjabi Tadka,North Indian,4.4,Butter Chicken,Main Course,3,260,780,CANCELLED,upi,Failed,Sai Iyer,Bicycle,9.9,47,,
+ORD10368,29-08-2024,CUST2270,RAHUL MENON,MALE,35, Chennai ,Adyar,R005,Burger Point,Fast Food,3.9,Cheese Burger,Burger,1,130,130,Delivered,Debit Card,Paid,Anika Kapoor,Bike,7.5,47,4,5
+ORD10481,19-Jun-24,CUST2355,Karthik Singh,M,,pune,Viman Nagar,R008,  Taco Fiesta  ,Mexican,3.8,Chicken Tacos,Main Course,5,210,1050,Delivered,Wallet,Paid,Kiran Desai,Scooter,12,56,5,4
+ORD10363,14-06-2024 07:47, CUST2266 ,Kavya Sharma,f,45,Pune,Viman Nagar,R004,Punjabi Tadka,North Indian,4.4,Paneer Tikka,Starters,4,220,880,Delivered,Credit Card,Paid,Manoj Nair,Bike,6.7,38,,3
+ORD10149,28-06-2024 10:39,CUST2108,Rahul Iyer,Female,37,Bangalore,Electronic City,R002,Pizza Palace,Italian,4.1,Margherita Pizza,Pizza,3,250,1308.18,returned,UPI,Refunded,Reyansh Sharma,Bicycle,8.6,45,,
+ORD10404,04-08-2024,CUST2300,Suresh Iyer,F,33, Chennai ,T Nagar,R013,Sweet Tooth,Desserts,,Ice Cream Sundae,Desserts,3,150,450,Delivered,Cash on Delivery,Paid,Lakshmi Verma,Bicycle,2.8,25,5,5
+ORD10434,06-08-2024,CUST2286,Krishna Mukherjee,female,25,CHENNAI,T Nagar,R001,Biryani Blues,Biryani,4.3,Mutton Biryani,Main Course,3,280,840,Delivered,,Paid,Meera Bose,Bike,12.3,57,4,3
+ORD10253,07/20/2024,CUST2187,Manoj Joshi,Female,24,Delhi,Dwarka,R005,Burger Point,Fast Food,,French Fries,Sides,2,90,180,Delivered,Debit Card,Paid,Sai Iyer,Bicycle,0.9,9,5,3
+ORD10322,05-02-2024,CUST2235,Arjun Reddy,F,35,Kolkata,Salt Lake,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,5,70,350,cancelled,Wallet,Failed,Myra Pillai,Bike,13.1,77,,
+ORD10186,29-04-2024 03:47,CUST2137,Manoj Nair,f,39, Mumbai ,Powai,R003,Dragon Wok,chinese,4,Veg Noodles,Noodles,-4,Rs.160.0,640,RETURNED,CASH ON DELIVERY,Refunded,Myra Pillai,Scooter,4,25,,
+ORD10142,07-04-2024 18:00,CUST2049,Vihaan Bose,m,43,,,R003,Dragon Wok,Chinese,4,Chicken Manchurian,Main Course,3,210,630,Delivered,CASH ON DELIVERY,Paid,Vivaan Singh,Bicycle,7,40,3,4
+ORD10133,25-03-2024 22:36, CUST2070 ,,F,54,Bangalore,HSR Layout, R003 ,Dragon Wok,chinese,4,Spring Rolls,Starters,1,Rs.140.0,Rs.140.0,Delivered,,Paid,Krishna Chatterjee,Bike,6.7,42,4,3
+ORD10357,20-05-2024,CUST2262,Diya Desai,m,20,CHENNAI,Anna Nagar,R012,Noodle Story,Chinese,3.7,Chicken Manchurian,Main Course,5,210,Rs.1050.0,DELIVERED,Debit Card,Paid,Lakshmi Verma,Bike,8.7,48,3,-1
+ORD10119,04-07-2024 16:58,CUST2088,Anika Menon,MALE,,Bangalore,Electronic City,R002,Pizza Palace,Italian,4.1,Pepperoni Pizza,Pizza,3,320,960,Cancelled,Cash on Delivery,Failed,Kavya Mukherjee,Scooter,6,38,,
+ORD10245,18-12-2024 12:37,CUST2182,Ananya Rao,,54,Chennai,Anna Nagar,R012,Noodle Story,Chinese,3.7,Spring Rolls,Starters,4,140,560,Delivered,UPI,Paid,Anika Kapoor,Bicycle,1.7,12,4,5
+ORD10288,17-10-2024 22:59,CUST2019,Divya Joshi,FEMALE,30,PUNE,Hinjewadi,R002,Pizza Palace,Italian,4.1,Margherita Pizza,Pizza,5,250,1250,DELIVERED,UPI,Paid,Vikram Das,E-Bike,3.5,23,4,5
+ORD10375,27-02-2024,CUST2143,Sai Menon,male,52,Delhi,Dwarka,R001,Biryani Blues,Biryani,4.3,Chicken Biryani,Main Course,5,220,Rs.1100.0,delivered,upi,Paid,Ishaan Joshi,E-Bike,5.3,39,4,5
+ORD10120,24-01-2024 23:37,CUST2078,Suresh Kapoor,M,47,delhi,Rohini,R007,Sushi Yama,Japanese,4.2,Miso Soup,Starters,5,150,750,Delivered,WALLET,Paid,Reyansh Sharma,Bike,8.3,46,5,3
+ORD10491,31-01-2024,CUST2362,Arjun Iyer,F,,Pune,Viman Nagar,R012,Noodle Story,Chinese,3.7,Chicken Manchurian,Main Course,2,210,420,DELIVERED,debit card,Paid,Myra Pillai,Bike,9.4,42,5,4
+ORD10039,22-01-2024,CUST2031,Manoj Kapoor,f,56,Mumbai,,R014,Healthy Bites,Salads,4.2,Caesar Salad,Salads,3,180,₹540.0,cancelled,DebitCard,Refunded,Pooja Gupta,Bike,10.9,46,,
+ORD10441,15-07-2024 05:30,CUST2327,Lakshmi Malhotra,MALE,36,hyderabad,Gachibowli,R009,The Bakers Oven,Bakery,4,Cupcake,Desserts,3,80,240,Delivered,Debit Card,Paid,Nikhil Malhotra,Bike,13.4,68,4,5
+ORD10292,18-12-2024 11:57,CUST2217,Anika Kumar,m,,Chennai,Adyar,R010,Kebab Junction,Mughlai,4.3,Chicken Kebab,Starters,1,240,240,Returned,DEBIT CARD,Refunded,Myra Pillai,E-Bike,12.5,71,,
+ORD10307,09-07-2024 06:35,CUST2105,Sunita Sharma,M,47,Pune,Kothrud,R015,Chaat Corner,Street Food,4,Bhel Puri,Street Food,4,70,280,Cancelled,CREDIT CARD,Refunded,Vivaan Singh,Bicycle,14,90,,
+ORD10085,26-11-2024 13:26,CUST2064,Riya Pillai,f,50,Chennai,Adyar,R003,Dragon Wok,Chinese,4,Veg Noodles,Noodles,5,160,800,Cancelled,Debit Card,Refunded,Anika Kapoor,Scooter,8.7,45,,
+ORD10225,12-08-2024,CUST2167,Suresh Sharma,m,51,Pune,Kothrud,R009,The Bakers Oven,Bakery,4,Croissant,Bakery,5,90,450,delivered,WALLET,Paid,Manoj Nair,Bicycle,11.2,50,5,5
+ORD10020,28-04-2024,CUST2014,Diya Chatterjee,Male,19,Hyderabad,Banjara Hills,R013,Sweet Tooth,Desserts,4.6,Ice Cream Sundae,Desserts,0,150,300,DELIVERED,Credit Card,Paid,Aditya Menon,Bike,13,64,5,4
+ORD10073,22-04-2024,CUST2044,Myra Desai,female,40,Hyderabad,Secunderabad,R008,Taco Fiesta,Mexican,3.8,Burrito Bowl,Main Course,3,240,720,Delivered,Credit Card,Paid,Suresh Kumar,Bike,0.9,10,4,4
+ORD10076,22-10-2024,CUST2057,Myra Das,f,28,Bangalore,Jayanagar,R011,Curry House,North-Indian,4.1,Butter Chicken,Main Course,5,260,Rs.1300.0,Delivered,Credit Card,Paid,Aarav Reddy,Bicycle,4.2,22,5,4
+ORD10381,20-07-2024,CUST2282,Ramesh Gupta,N/A,58,HYDERABAD,Gachibowli, R010 ,Kebab Junction,Mughlai,4.3,Chicken Kebab,Starters,5,240,1200,Delivered,Debit Card,Paid,Sai Iyer,Scooter,2.2,23,3,4
+ORD10362,25-03-2024 01:23,CUST2176,Rahul Kapoor,m,23,Bangalore,Indiranagar,R015,Chaat Corner,Street Food,4,Bhel Puri,Street Food,5,70,350,CANCELLED,WALLET,Refunded,Manoj Nair,Bicycle,2,20,,
+ORD10489,11-01-2024 09:01,CUST2253,Sai Desai,,26,DELHI,Connaught Place,R013,Sweet Tooth,Desserts,4.6,Brownie,Desserts,1,Rs.130.0,130,Delivered,upi,Paid,Meera Bose,Scooter,6.6,32,3,5
+ORD10418,11/15/2024,CUST2312,Krishna Bose,f,20,Delhi,Rohini,R012,Noodle Story,Chinese,3.7,Spring Rolls,Starters,-4,Rs.140.0,560,Delivered,CashonDelivery,Paid,,Bike,5.8,30,4,5
+ORD10265,27-05-2024 08:31,CUST2109,Priya Das,Male,30,Delhi,Connaught Place,R009,The Bakers Oven,Bakery,4,Chocolate Cake,Desserts,5,350,3086.24,Delivered,Cash on Delivery,Paid,Kiran Desai,Bike,10.7,59,3,4
+ORD10041,23-06-2024 23:05,CUST2004,Rohan Menon,male,28,CHENNAI,Anna Nagar,R003,Dragon Wok,Chinese,4,Spring Rolls,Starters,3,140,420,DELIVERED,Credit Card,Paid,Vikram Das,E-Bike,9.4,55,5,5
+ORD10439,23-12-2024 11:13,CUST2326,,MALE,21,Pune,Kharadi,R005,Burger Point,Fast Food,3.9,French Fries,Sides,4,90,360,Returned,Wallet,Refunded,Ravi Rao,Scooter,0.9,13,,
+ORD10111,26-10-2024,CUST2083,Deepak Kapoor,female,42,Mumbai,Bandra,R008,Taco Fiesta,Mexican,3.8,Burrito Bowl,Main Course,3,240,Rs.720.0,Delivered,Debit Card,Paid,Suresh Kumar,E-Bike,3.5,24,4,4
+ORD10304,27-Jan-24,CUST2225,Ishaan Joshi,M,52,Pune,Viman Nagar,R014,Healthy Bites,Salads,4.2,Caesar Salad,Salads,-3,180,540,RETURNED,Wallet,Refunded,Lakshmi Verma,Bicycle,10.1,53,,
+ORD10466,05-01-2024 02:51,CUST2343,,Male,58,delhi,Saket,R002,Pizza Palace,Italian,4.1,Pasta Alfredo,Pasta,1,240,240,Delivered,upi,Paid,Aditya Menon,E-Bike,2.2,18,5,5
+ORD10049,01-12-2024,CUST2038,Suresh Kumar,m,50,pune,Hinjewadi,R007,Sushi Yama,Japanese,4.2,Chicken Ramen,Main Course,4,₹280.0,1120,Cancelled,CashonDelivery,Refunded,Aditya Menon,Bicycle,13.9,76,,
+ORD10019,25-12-2024 12:44,CUST2013,Manoj Malhotra,F,27,Delhi,Dwarka,R001,Biryani Blues,Biryani,4.3,Mutton Biryani,Main Course,3,280,840,Delivered,,Paid,Reyansh Sharma,Bike,5.8,40,5,4
+ORD10044,07/28/2024,CUST2010,Anika Gupta,F,60,pune,Kothrud,R001,Biryani Blues,Biryani,4.3,Chicken Biryani,Main Course,3,220,₹660.0,Delivered,WALLET,Paid,Kiran Desai,Bike,7.5,39,4,5
+ORD10274,05/14/2024,CUST2203,Deepak Mukherjee,FEMALE,52,Mumbai,Malad,R008,Taco Fiesta,Mexican,3.8,Chicken Tacos,Main Course,5,210,1050,Cancelled,Wallet,Failed,Manoj Nair,E-Bike,8.2,47,,6
+ORD10423,02-02-2024 14:39,CUST2316,Sai Chatterjee,female,,Chennai,Anna Nagar,R007,Sushi Yama,Japanese,4.2,Miso Soup,Starters,4,150,Rs.600.0,Delivered,UPI,Paid,Kiran Desai,Bicycle,10,63,5,5
+ORD10091,23-Apr-24,CUST2068,Ishaan Verma,FEMALE,40, Chennai ,Velachery,R014,Healthy Bites,Salads,4.2,Quinoa Salad,Salads,2,210,420,Returned,Cash on Delivery,Refunded,Myra Pillai,Bicycle,,18,,
+ORD10374,23-Jul-24,CUST2276,Amit Nair,f,48,Bangalore,Indiranagar,R011,Curry House,North Indian,4.1,Dal Makhani,Main Course,1,180,180,delivered,upi,Paid,Suresh Kumar,Bicycle,7.1,31,4,5
+ORD10157,12-02-2024,CUST2114,Gita Patel,Female,56, Chennai ,Anna Nagar,R006,South Spice,South Indian,4.5,Uttapam,Breakfast,3,₹100.0,300,delivered,Wallet,Paid,Meera Bose,Bike,2.7,22,4,4
+ORD10276,23-10-2024,CUST2205,-,FEMALE,18,Chennai,Velachery,R004,Punjabi Tadka,North Indian,4.4,Paneer Tikka,Starters,5,220,1100,Delivered,Cash on Delivery,Paid,Myra Pillai,E-Bike,12.6,55,4,5
+ORD10335,08-Jul-24,CUST2245,Diya Bose,M,26,Hyderabad,Secunderabad,R007,Sushi Yama,Japanese,,Chicken Ramen,Main Course,4,280,1120,cancelled,Debit Card,Refunded,Aarohi Patel,Bike,1.8,18,,
+ORD10161,01/21/2024,CUST2055,Suresh Chatterjee,M,29,HYDERABAD,Madhapur,R012,Noodle Story,Chinese,3.7,Veg Noodles,Noodles,3,,480,Cancelled,Debit Card,Refunded,Aarav Reddy,Scooter,2,21,,
+ORD10115,03-09-2024,CUST2085,Deepak Gupta,f,36,Mumbai,Powai,R011,Curry House,North Indian,4.1,Butter Chicken,Main Course,1,260,260,returned,wallet,Refunded,Vikram Das,Bike,13.8,66,,
+ORD10329,28-Jun-24,CUST2240,Deepak Singh,F,32,hyderabad,Secunderabad,R005,Burger Point,Fast Food,3.9,French Fries,Sides,4,90,360,Cancelled,Debit Card,Failed,Kiran Desai,E-Bike,1.2,13,,
+ORD10069,15-05-2024 23:17,CUST2052,Krishna Chatterjee,f,40,Kolkata,Ballygunge,R014,Healthy Bites,Salads,4.2,Quinoa Salad,Salads,1,210,210,Delivered,WALLET,Paid,Aarav Reddy,Bike,9,46,4,3
+ORD10216,07-05-2024 15:20,CUST2013,Manoj Malhotra,female,27,DELHI,Saket,R014,Healthy Bites,Salads,4.2,Caesar Salad,Salads,1,180,180,Delivered,Debit Card,Paid,Lakshmi Verma,Bike,2.1,15,4,4
+ORD10393,08-07-2024,CUST2291,Pooja Nair,M,42,Delhi,,R014,Healthy Bites,Salads,4.2,Fruit Bowl,Salads,4,120,480,Delivered,UPI,Paid,Myra Pillai,Scooter,13.4,60,4,5
+ORD10132,06-03-2024,CUST2096,Riya Reddy,f,30,mumbai,Bandra,R007,Sushi Yama,Japanese,4.2,Miso Soup,Starters,2,150,300,Delivered,wallet,Paid,Sai Iyer,E-Bike,14.5,79,,4
+ORD10002,14-04-2024,CUST2002,Sneha Patel,Male,47,Pune,Hinjewadi,R003,Dragon Wok,Chinese,4,Chicken Manchurian,Main Course,3,210,630,Cancelled,Debit Card,Refunded,Suresh Kumar,Bicycle,8.4,43,,
+ORD10188,29-05-2024,CUST2139,Neha Das,,28,PUNE,Kothrud,R014,Healthy Bites,Salads,,Quinoa Salad,Salads,3,,Rs.630.0,Delivered,,Paid,Ishaan Joshi,Bicycle,10.6,57,3,3
+ORD10228,25-01-2024 02:11,CUST2170,Pooja Sharma,female,51,bangalore,Koramangala,R007,  Sushi Yama  ,Japanese,4.2,California Roll,Sushi,1,320,320,Returned,,Refunded,Sai Iyer,Bicycle,14.8,78,,
+ORD10179,17-03-2024 19:10,CUST2131,Vikram Nair,Male,26, Bangalore ,Koramangala,R001,Biryani Blues,Biryani,4.3,Chicken Biryani,Main Course,2,Rs.220.0,₹440.0,Cancelled,cash on delivery,Failed,Vivaan Singh,Scooter,13.8,65,,
+ORD10328,30-04-2024 13:03, CUST2239 ,Ravi Joshi,MALE,58,KOLKATA,Ballygunge,R010,Kebab Junction,Mughlai,4.3,Seekh Kebab,Starters,3,220,660,Delivered,NA,Paid,Kiran Desai,Bicycle,2.1,22,3,5
+ORD10182,10-Nov-24,CUST2134,Sneha Menon,MALE,48,CHENNAI,Adyar,R006,South Spice,South Indian,4.5,Uttapam,Breakfast,5,Rs.100.0,Rs.500.0,Delivered,Cash on Delivery,Paid,Myra Pillai,Bike,5.3,34,4,3
+ORD10134,11-11-2024,CUST2097,VIHAAN DESAI,female,58,Pune,Kharadi,R015,Chaat Corner,Street Food,4,Bhel Puri,Street Food,4,70,280,delivered,UPI,Paid,Nikhil Malhotra,Bike,8.3,48,-2,5
+ORD10224,06/26/2024,CUST2051,Rahul Chatterjee,M,38,pune,Viman Nagar,R002,Pizza Palace,Italian,-1,Pepperoni Pizza,Pizza,2,320,640,Delivered,Credit Card,Paid,Kavya Mukherjee,E-Bike,1.5,18,3,5
+ORD10249,04-09-2024,CUST2147,Aarohi Verma,female,48,mumbai,Malad,R003,Dragon Wok,Chinese,4,Veg Noodles,Noodles,5,₹160.0,₹800.0,Delivered,Wallet,Paid,Krishna Chatterjee,Bicycle,4.5,31,5,5
+ORD10284,10/28/2024,CUST2211,Gita Menon,MALE,38,Pune,Baner,R005,Burger Point,Fast Food,,Veg Burger,Burger,5,110,₹550.0,Cancelled,UPI,Refunded,Kiran Desai,Scooter,12.4,66,,
+ORD10169,19-Jul-24,CUST2124,VIHAAN SINGH,Male,23,Delhi,Saket,R008,Taco Fiesta,Mexican,3.8,Burrito Bowl,Main Course,-5,240,Rs.1200.0,Delivered,,Paid,Kavya Mukherjee,Bike,10.9,60,4,5
+ORD10449,16-02-2024 17:07,CUST2013,Manoj Malhotra,female,27,Delhi,Karol Bagh,R011,Curry House,north indian,4.1,Dal Makhani,Main Course,3,Rs.180.0,₹540.0,Delivered,UPI,Paid,Ishaan Joshi,Bike,14.4,77,5,3
+ORD10336,08/22/2024,CUST2246,Sai Reddy,MALE,59, Kolkata ,Ballygunge,R014,Healthy Bites,Salads,4.2,Fruit Bowl,Salads,5,120,600,Delivered,Wallet,Paid,Kiran Desai,E-Bike,0,46,4,5
+ORD10324,28-12-2024 02:00,CUST2237,Aadhya Das,M,,PUNE,Kharadi,R005,Burger Point,Fast Food,3.9,French Fries,Sides,2,90,180,Delivered,Wallet,Paid,Ishaan Joshi,Bike,7.3,46,3,4
+ORD10264,19-02-2024 19:20,CUST2195,Kiran Sharma,female,,BANGALORE,HSR Layout,R006,South Spice,South Indian,4.5,Uttapam,Breakfast,3,100,300,Delivered,,Paid,Anika Kapoor,Bicycle,14.8,86,4,5
+ORD10143,26-04-2024 16:15,CUST2103,Ravi Desai,f,30,Delhi,Saket,R003,Dragon Wok,Chinese,4,Chicken Manchurian,Main Course,1,210,370.06,Delivered,Debit Card,Paid,Ravi Rao,E-Bike,5.6,42,5,4
+ORD10246,14-12-2024 20:04,CUST2183,Deepak Mukherjee,f,20, Bangalore ,Electronic City,R006,South Spice,South Indian,4.5,Masala Dosa,Breakfast,5,90,Rs.450.0,Returned,debit card,Refunded,,Bicycle,6.1,36,,
+ORD10301,25-Dec-24,CUST2222,Reyansh Sharma,F,36,Kolkata,Ballygunge,R004,Punjabi Tadka,North Indian,4.4,Paneer Tikka,Starters,5,220,Rs.1100.0,Returned,UPI,Refunded,Anika Kapoor,Bike,3.4,24,,
+ORD10028,06-10-2024,CUST2021,Nikhil Singh,f,35, Delhi ,Saket,R012,Noodle Story,Chinese,,Chicken Manchurian,Main Course,2,210,420,Delivered,DebitCard,Paid,Vikram Das,Bike,2.8,23,4,3
+ORD10442,07-08-2024 15:44,CUST2031,MANOJ KAPOOR,F,56,Mumbai,Powai,R005,Burger Point,Fast Food,3.9,Veg Burger,Burger,5,₹110.0,550,Delivered,UPI,Paid,Kavya Mukherjee,E-Bike,5,34,4,5
+ORD10139,14-04-2024,CUST2101,Rahul Sharma,FEMALE,58,Mumbai,Dadar,R008,Taco Fiesta,Mexican,3.8,Chicken Tacos,Main Course,3,Rs.210.0,630,Delivered,Cash on Delivery,Paid,Myra Pillai,E-Bike,2,22,3,3
+ORD10364,28-04-2024 09:16,CUST2267,Reyansh Mukherjee,f,49,Hyderabad,Gachibowli,R009,The Bakers Oven,Bakery,4,Chocolate Cake,Desserts,4,350,,Cancelled,Credit Card,Failed,Pooja Gupta,Bicycle,10,46,,
+ORD10090,,CUST2067,Lakshmi Malhotra,Male,50,Kolkata,Salt Lake,R007,Sushi Yama,Japanese,4.2,Chicken Ramen,Main Course,-1,280,280,Returned,Cash on Delivery,Refunded,Sai Iyer,Bike,5.9,28,,
+ORD10479,03/17/2024,CUST2120,SANJAY MENON,male,31,pune,Hinjewadi,R011,Curry House,North Indian,4.1,Butter Chicken,Main Course,3,260,780,delivered,debit card,Paid,Sai Iyer,Bicycle,2.2,13,4,4
+ORD10412,04/19/2024,CUST2307,Suresh Nair,female,32, Pune ,Viman Nagar,R004,Punjabi Tadka,North Indian,4.4,Paneer Tikka,Starters,3,220,₹660.0,RETURNED,Cash on Delivery,Refunded,Aarohi Patel,E-Bike,13,76,,
+ORD10024,05-11-2024 03:29,CUST2017,Sunita Sharma,F,37,Mumbai,Bandra,R007,Sushi Yama,Japanese,4.2,Miso Soup,Starters,5,150,750,Returned,DEBIT CARD,Refunded,Kiran Desai,E-Bike,10.4,59,,
+ORD10097,15-12-2024 00:17,CUST2071,Lakshmi Pillai,Female,53,bangalore,Whitefield,R013,Sweet Tooth,Desserts,4.6,Ice Cream Sundae,Desserts,4,Rs.150.0,600,Cancelled,WALLET,Failed,Anika Kapoor,Bicycle,2.5,22,,
+ORD10080,09-05-2024 11:09,CUST2061,Sneha Chatterjee,female,39,Pune,Kharadi,R001,Biryani Blues,Biryani,4.3,Veg Biryani,Main Course,3,180,540,Delivered,Debit Card,Paid,Vikram Das,E-Bike,4.8,35,5,4
+ORD10493,10-05-2024,CUST2364,Sneha Kumar,male,46,Bengaluru,Jayanagar,R001,Biryani Blues,Biryani,4.3,Chicken Biryani,Main Course,4,Rs.220.0,880,cancelled,credit card,Failed,Reyansh Sharma,Bicycle,2.1,24,0,
+ORD10193,28-02-2024, CUST2142 ,Anika Iyer,FEMALE,-5,chennai,Adyar,R003,Dragon Wok,Chineese,4,Chicken Manchurian,Main Course,4,₹210.0,840,Delivered,Credit Card,Paid,Krishna Chatterjee,Scooter,7,41,5,3
+ORD10243,0000-00-00,CUST2161,Reyansh Chatterjee,male,55,delhi,,R012,Noodle Story,Chinese,3.7,Veg Noodles,Noodles,1,₹160.0,160,Delivered,UPI,Paid,Manoj Nair,Bicycle,13.7,73,5,
+ORD10371,11-03-2024,CUST2273,Meera Rao,MALE,34,hyderabad,Kukatpally,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,1,₹70.0,70,Cancelled,Debit Card,Failed,Kiran Desai,Bicycle,9.6,47,,
+ORD10172,01/18/2024,CUST2127,Diya Verma,m,53,Kolkata,Ballygunge,R004,Punjabi Tadka,North Indian,4.4,Paneer Tikka,Starters,2,₹220.0,440,Delivered,Debit Card,Paid,Vivaan Singh,Scooter,2.5,17,4,5
+ORD10327,03-02-2024 10:41,CUST2238,Rohan Kumar,Female,54,Hyderabad,Madhapur,R002,Pizza Palace,Italian,4.1,Pepperoni Pizza,Pizza,5,320,1600,Delivered,WALLET,Paid,Krishna Chatterjee,Bicycle,1.2,500,5,3
+ORD10068,15-Aug-24,CUST2051,Rahul Chatterjee,,38,pune,Hinjewadi,R006,South Spice,South Indian,4.5,Masala Dosa,Breakfast,4,90,360,Delivered,upi,Paid,Vivaan Singh,E-Bike,2.2,24,0,3
+ORD10146,18-01-2024 04:52,CUST2106,Manoj Pillai,f,52,CHENNAI,Adyar,R009,The Bakers Oven,Bakery,,Chocolate Cake,Desserts,3,,,Returned,Wallet,Refunded,Kavya Mukherjee,Bicycle,10.1,53,,
+ORD10409,04-07-2024 18:41,CUST2304,AARAV PILLAI,male,30,pune,Hinjewadi,R006,South Spice,South Indian,4.5,Uttapam,Breakfast,1,100,100,Delivered,Credit Card,Paid,Meera Bose,Bicycle,12.8,75,4,5
+ORD10421,08-01-2024 23:11,CUST2314,Saanvi Verma,Male,59,Mumbai,Powai,R013,  Sweet Tooth  ,Desserts,4.6,Gulab Jamun,Desserts,1,90,135.3,Delivered,WALLET,Paid,Vivaan Singh,E-Bike,4.4,30,4,3
+ORD10082,24-10-2024 13:05,CUST2045,Reyansh Singh,Female,48,Bangalore,Electronic City,R011,Curry House,North Indian,4.1,Dal Makhani,Main Course,1,180,₹180.0,Returned,Cash on Delivery,Refunded,Nikhil Malhotra,Scooter,5.2,36,,
+ORD10469,16-03-2024,CUST2346,Rohan Bose,MALE,37,Chennai,Velachery,R005,Burger Point,Fast Food,3.9,French Fries,Sides,1,90,90,Delivered,wallet,Paid,Krishna Chatterjee,Bicycle,8,54,5,4
+ORD10232,15-05-2024 16:40,CUST2174,Suresh Joshi,F,53,,Andheri,R013,Sweet Tooth,Desserts,4.6,Brownie,Desserts,0,130,390,Delivered,Credit Card,Paid,Meera Bose,Bike,12,56,5,3
+ORD10038,25-03-2024 00:51,CUST2030,Sunita Kapoor,FEMALE,40, Delhi ,Karol Bagh,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,4,70,486.06,Delivered,N/A,Paid,Reyansh Sharma,Bike,11,57,4,4
+ORD10331,07-02-2024 22:12,CUST2242,Saanvi Joshi,Female,45,,Ballygunge,R010,Kebab Junction,Mughlai,4.3,Seekh Kebab,Starters,5,220,1100,Returned,Credit Card,Refunded,Vivaan Singh,E-Bike,2.4,19,,
+ORD10386,08-10-2024 16:44,CUST2285,Neha Rao,Female,50,Kolkata,Park Street,R009,The Bakers Oven,Bakery,4,Cupcake,Desserts,1,80,80,Delivered,Wallet,Paid,Meera Bose,Bicycle,11,66,5,3
+ORD10141,07/21/2024,CUST2102,Reyansh Sharma,female,23,MUMBAI,Malad,R002,Pizza Palace,Italian,4.1,Pasta Alfredo,Pasta,5,240,1200,DELIVERED,Cash on Delivery,Paid,Pooja Gupta,E-Bike,6.3,37,4,5
+ORD10035,18-04-2024 07:47,CUST2027,Priya Mukherjee,f,,delhi,Dwarka,R012,Noodle Story,Chinese,3.7,Spring Rolls,Starters,3,140,689.7,delivered,wallet,Paid,Kiran Desai,E-Bike,12.5,66,4,3
+ORD10389,26-09-2024 22:12,CUST2287,Pooja Gupta,Female,22,Kolkata,Ballygunge,R011,Curry House,North Indian,4.1,Paneer Tikka,Starters,2,220,440,DELIVERED,CASH ON DELIVERY,Paid,Aditya Menon,E-Bike,8.2,45,5,5
+ORD10126,16-04-2024,CUST2065,Sneha Iyer,-,41,HYDERABAD,Banjara Hills,R004,Punjabi Tadka,North Indian,4.4,Dal Makhani,Main Course,5,180,900,Delivered,Wallet,Paid,Reyansh Sharma,Scooter,13.2,82,5,4
+ORD10237,05/28/2024,CUST2002,Sneha Patel,MALE,47,Pune,Kharadi,R002,Pizza Palace,Italian,4.1,Pasta Alfredo,Pasta,5,240,1200,delivered,UPI,Paid,Meera Bose,Bike,4.9,34,4,5
+ORD10302,07-12-2024 05:51,CUST2223,Aarohi Kapoor,Male,37,Mumbai,Dadar,R007,Sushi Yama,Japanese,4.2,Miso Soup,Starters,2,150,300,delivered,Debit Card,Paid,Aarav Reddy,Scooter,4.2,32,3,4
+ORD10417,04-Mar-24,CUST2311,Pooja Rao,female,38,Pune,Baner,R013,Sweet Tooth,Desserts,,Gulab Jamun,Desserts,5,90,450,Returned,Cash on Delivery,Refunded,Ishaan Joshi,Bicycle,1.6,15,,6
+ORD10254,21-09-2024 07:42,CUST2168,DIVYA DESAI,F,33,mumbai,Bandra,R012,Noodle Story,Chinese,3.7,Chicken Manchurian,Main Course,4,210,840,Delivered,UPI,Paid,Lakshmi Verma,Scooter,4.5,31,5,4
+ORD10177,01/16/2024,CUST2120,Sanjay Menon,m,31, Pune ,Hinjewadi,R007,Sushi Yama,Japanese,4.2,California Roll,Sushi,5,320,1600,DELIVERED,CreditCard,Paid,Pooja Gupta,E-Bike,4.6,23,4,5
+ORD10093,31-Jan-24,CUST2048,Kavya Reddy,M,26,CHENNAI,Adyar, R015 ,Chaat Corner,Street Food,4,Bhel Puri,Street Food,4,Rs.70.0,280,Delivered,DebitCard,Paid,Anika Kapoor,E-Bike,6,38,3,
+ORD10110,02/23/2024,CUST2082,Aditya Joshi,m,25,hyderabad,Gachibowli,R008,Taco Fiesta,Mexican,3.8,Nachos,Starters,4,180,720,Cancelled,CashonDelivery,Refunded,Lakshmi Verma,E-Bike,13.2,71,,
+ORD10281,01/17/2024,CUST2209,ANIKA BOSE,Male,58,Mumbai,Bandra,R006,South Spice,South Indian,4.5,Masala Dosa,Breakfast,2,₹90.0,180,Delivered,CreditCard,Paid,Ravi Rao,Bike,3.2,19,,
+ORD10339,01/21/2024,CUST2248,Anil Das,f,44,mumbai,Powai,R005,Burger Point,Fast Food,3.9,Cheese Burger,Burger,1,Rs.130.0,130,returned,WALLET,Refunded,Manoj Nair,Scooter,1.7,14,,
+ORD10072,13-02-2024 01:34,CUST2054,Vihaan Reddy,male,28,Kolkata,Salt Lake,R011,Curry House,North Indian,4.1,Butter Chicken,Main Course,3,260,Rs.780.0,DELIVERED,cash on delivery,Paid,Suresh Kumar,E-Bike,6.7,36,4,5
+ORD10162,30-11-2024 02:57,CUST2118,Myra Chatterjee,Female,59, Bangalore ,Electronic City,R002,Pizza Palace,Italian,4.1,Margherita Pizza,Pizza,2,Rs.250.0,500,delivered,UPI,Paid,Manoj Nair,Bicycle,8.2,41,4,3
+ORD10333,04-02-2024 16:13,CUST2137,Manoj Nair,,39,Mumbai,Powai, R007 ,  Sushi Yama  ,Japanese,4.2,Miso Soup,Starters,5,150,750,Delivered,NA,Paid,Ravi Rao,Scooter,8.9,55,5,4
+ORD10270,08-10-2024,CUST2199,Riya Menon,M,38,Pune,Kharadi,R008,Taco Fiesta,Mexican,3.8,Burrito Bowl,Main Course,4,Rs.240.0,Rs.960.0,delivered,CashonDelivery,Paid,Kiran Desai,Bicycle,13.1,76,5,5
+ORD10440,31-05-2024 11:00,CUST2207,Vikram Verma,female,39,bangalore,HSR Layout,R011,Curry House,North Indian,4.1,Butter Chicken,Main Course,5,Rs.260.0,1300,delivered,Wallet,Paid,Aarav Reddy,E-Bike,,67,5,4
+ORD10338,06/25/2024,CUST2247,Vikram Kapoor,Female,23,CHENNAI,OMR,R002,Pizza Palace,Italian,4.1,Margherita Pizza,Pizza,4,250,1000,Returned,UPI,Refunded,Suresh Kumar,Bike,13.6,-15,,
+ORD10092,16-04-2024 02:33,CUST2026,Manoj Singh,male,24,Pune,Kothrud,R006,South Spice,South Indian,4.5,Idli Sambar,Breakfast,5,70,350,Delivered,WALLET,Paid,Sai Iyer,Bike,11.5,53,3,4
+ORD10081,11-11-2024 19:25,CUST2043,Sneha Bose,MALE,24,HYDERABAD,Madhapur,R015,  Chaat Corner  ,Street Food,4,Bhel Puri,Street Food,3,Rs.70.0,₹210.0,Returned,cash on delivery,Refunded,Suresh Kumar,Bike,5.2,35,,
+ORD10192,31-10-2024 19:34,CUST2141,Priya Sharma,MALE,45,,Whitefield,R014,Healthy Bites,Salads,4.2,Quinoa Salad,Salads,5,210,1050,Delivered,Credit Card,Paid,Nikhil Malhotra,Bicycle,3.2,18,3,4
+ORD10410,09-01-2024 22:05,CUST2305,Anika Rao,MALE,55,KOLKATA,Howrah,R013,Sweet Tooth,Desserts,4.6,Ice Cream Sundae,Desserts,2,Rs.150.0,300,Delivered,Cash on Delivery,Paid,Myra Pillai,E-Bike,13.2,84,4,3
